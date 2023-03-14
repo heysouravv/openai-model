@@ -1,0 +1,1002 @@
+,account,seq,lifetimeProviewViews,class,region_num,region_desc,ad_position,ad_size,classDesc,ad_size_desc
+0,100025,0,29929,1830,7,Los Angeles,1,1C,Fences,Platinum
+1,100025,0,29929,1830,7,Or/Riv/S.Ber,4,1C,Fences,Platinum
+2,100025,0,29929,2897,3,Los Angeles,1,8C,M.W.B.E.--Fence Contractors,Bronze
+3,100025,0,29929,2897,3,Or/Riv/S.Ber,0,C,M.W.B.E.--Fence Contractors,Clear Listing
+4,100050,0,28547,4500,36,San Diego,21,8C,Underground Utilities--Contractors,Bronze
+5,100050,0,28547,3790,36x,San Diego,6,8C,Sewer Contractors,Bronze
+6,100050,0,28547,3310,36,San Diego,4,8C,Pipeline Contractors,Bronze
+7,100050,0,28547,4630,36,San Diego,2,8C,Water Main Construction,Bronze
+8,100052,0,6395,1870,36,San Diego,3,4C,Fire Protection Equipment & Systems,Silver
+9,100052,0,6395,3990,36,San Diego,3,4C,Fire Sprinkler Systems,Silver
+10,1000738,0,2818,4200,19,Michigan,6,4C,Structural Steel Fabricators & Contractors,Silver
+11,1000738,0,2818,4710,19,Michigan,1,4C,Welding & Cutting Contractors,Silver
+12,1000780,0,9334,2997,23,PA/DE Edition,0,C,Painting Contractors,Clear Listing
+13,1000780,0,9334,2997,23,C/S New Jersey,7,2C,Painting Contractors,Gold
+14,1000990,0,17978,5425,7,Los Angeles,9,8C,Concrete Polishing,Bronze
+15,1000990,0,17978,5425,7,Or/Riv/S.Ber,3,2C,Concrete Polishing,Gold
+16,1000990,0,17978,1930,7,Or/Riv/S.Ber,1,2C,"Floor Treatments, Coatings & Preservatives",Gold
+17,1000990,0,17978,1980,7,Los Angeles,0,C,Industrial Flooring,Clear Listing
+18,1000990,0,17978,1980,7,Or/Riv/S.Ber,1,4C,Industrial Flooring,Silver
+19,1001194,0,8651,7931,29,The Carolinas,7,8C,Site Development,Bronze
+20,1001333,0,12579,3513,8,Chicago,3,4C,Restoration & Preservation--Historical/Landmark,Silver
+21,1001333,0,12579,3513,8,Wisconsin,0,C,Restoration & Preservation--Historical/Landmark,Clear Listing
+22,1001333,0,12579,4477,30,Chicago,0,B,Tuckpointing,Super Alpha
+23,1001333,0,12579,4477,30,Wisconsin,1,4C,Tuckpointing,Silver
+24,1001508,0,3170,60,3,Los Angeles,49,8C,Air Conditioning Contractors,Bronze
+25,1001508,0,3170,2370,3,Los Angeles,12,8C,Heating Contractors,Bronze
+26,1001556,0,12508,390,13,Houston,1,4C,Mason Contractors,Silver
+27,1001627,0,22852,1640,14,OH North,4,2C,Drywall Contractors,Gold
+28,1001627,0,22852,20,14,OH North,4,8C,Acoustical Contractors,Bronze
+29,1001627,0,22852,2145,14,OH North,0,B,Framing Systems--Light Gauge,Super Alpha
+30,100169,0,13063,4380,4,So. Florida,2,8C,Testing Laboratories,Bronze
+31,100169,0,13063,4370,4,So. Florida,1,8C,Test Borings,Bronze
+32,1001800,0,13025,1870,3,Los Angeles,19,8C,Fire Protection Equipment & Systems,Bronze
+33,1001800,0,13025,1870,3,Or/Riv/S.Ber,9,8C,Fire Protection Equipment & Systems,Bronze
+34,1001894,0,6552,5143,10,N. New Jersey,1,2C,Recycling & Crushing--On-Site,Gold
+35,1001894,0,6552,5143,10,C/S New Jersey,3,8C,Recycling & Crushing--On-Site,Bronze
+36,1002008,0,16510,2592,6,Boston & E.Ma,5,8C,"Solid Surfaces, Countertops & Laminates",Bronze
+37,1002008,0,16510,4130,6,Boston & E.Ma,0,B,Stone--Natural,Super Alpha
+38,1002008,0,16510,2830,6,Boston & E.Ma,1,4C,Marble & Granite,Silver
+39,1002094,0,3187,8,26,Pittsburgh,1,4C,Access Control Systems,Silver
+40,1002094,0,3187,4330,26,Pittsburgh,0,B,Television--Closed Circuit & T.V. Security Systems,Super Alpha
+41,1002094,0,3187,7624,26,Pittsburgh,0,B,Locksmiths,Super Alpha
+42,1002243,0,17580,60,23,PA/DE Edition,17,8C,Air Conditioning Contractors,Bronze
+43,1002243,0,17580,60,23,C/S New Jersey,18,4C,Air Conditioning Contractors,Silver
+44,1002243,0,17580,2844,23,PA/DE Edition,21,8C,Mechanical Contractors,Bronze
+45,1002243,0,17580,2844,23,C/S New Jersey,25,8C,Mechanical Contractors,Bronze
+46,1002243,0,17580,2370,23,PA/DE Edition,8,8C,Heating Contractors,Bronze
+47,1002243,0,17580,2370,23,C/S New Jersey,12,8C,Heating Contractors,Bronze
+48,100264,0,82000,2848,1,New York City,14,8C,Millwork,Bronze
+49,100264,0,82000,180,1,Nass & Sufflk,1,2C,Architectural & Cabinet Woodwork,Gold
+50,100264,0,82000,180,1,New York City,2,2C,Architectural & Cabinet Woodwork,Gold
+51,100264,0,82000,180,1,Wstch/Upst NY,2,2C,Architectural & Cabinet Woodwork,Gold
+52,100264,0,82000,2862,1,NY Edition,1,4C,M.W.B.E.--Carpentry-Millwork-Cabinetry-Etc.,Silver
+53,1002883,0,63468,1680,9,San Francisco,15,2C,Electrical Contractors,Gold
+54,1002883,0,63468,1680,9,Central Valley CA,4,2C,Electrical Contractors,Gold
+55,1002975,0,28304,4440,21,Los Angeles,4,8C,Stormwater Management,Bronze
+56,1002975,0,28304,4440,21,Or/Riv/S.Ber,4,4C,Stormwater Management,Silver
+57,1002975,0,28304,4440,21,San Francisco,1,2C,Stormwater Management,Gold
+58,1002975,0,28304,4440,21,Arizona,2,2C,Stormwater Management,Gold
+59,1002975,0,28304,4440,21,Central Valley CA,1,2C,Stormwater Management,Gold
+60,1002975,0,28304,4440,21,San Diego,5,8C,Stormwater Management,Bronze
+61,100300,0,36286,4200,3,Los Angeles,16,4C,Structural Steel Fabricators & Contractors,Silver
+62,100300,0,36286,2530,3,Los Angeles,14,8C,Ironwork--Miscellaneous & Ornamental,Bronze
+63,100300,0,36286,3430,3,Los Angeles,6,8C,Railings,Bronze
+64,100312,0,2324,60,12,Dallas/Ft. Worth,48,8C,Air Conditioning Contractors,Bronze
+65,100312,0,2324,2844,12,Dallas/Ft. Worth,0,B,Mechanical Contractors,Super Alpha
+66,100328,0,62334,1853,16,So. Florida,0,B,Financial Services,Super Alpha
+67,100328,0,62334,1853,16,Georgia,0,B,Financial Services,Super Alpha
+68,100328,0,62334,1853,16,No. Florida,1,8C,Financial Services,Bronze
+69,1003366,0,48734,2200,16,No. Florida,53,8C,General Contractors,Bronze
+70,100357,0,25025,1920,3,Los Angeles,4,8C,Metal Decking,Bronze
+71,100357,0,25025,1920,3,Los Angeles,6,8C,Metal Decking,Bronze
+72,100357,0,25025,1920,3,Or/Riv/S.Ber,4,8C,Metal Decking,Bronze
+73,100357,0,25025,1920,3,Or/Riv/S.Ber,6,8C,Metal Decking,Bronze
+74,100357,0,25025,1920,3,San Francisco,0,C,Metal Decking,Clear Listing
+75,100357,0,25025,1920,3,Central Valley CA,0,C,Metal Decking,Clear Listing
+76,100357,0,25025,1920,3,Central Valley CA,0,C,Metal Decking,Clear Listing
+77,100357,0,25025,1920,3,San Diego,1,8C,Metal Decking,Bronze
+78,100357,0,25025,1920,3,San Diego,2,8C,Metal Decking,Bronze
+79,1003622,0,11603,720,36,San Diego,15,8C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Bronze
+80,1003622,0,11603,7227,36,San Diego,0,B,"Concrete--Stamped, Stained & Decorative",Super Alpha
+81,1003787,0,18843,720,15,OH South,1,2C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Gold
+82,1003808,0,2110,1980,1,Nass & Sufflk,11,8C,Industrial Flooring,Bronze
+83,1003808,0,2110,1980,1,New York City,13,8C,Industrial Flooring,Bronze
+84,1003808,0,2110,2020,1,Nass & Sufflk,11,8C,Floor Underlayments,Bronze
+85,1003808,0,2110,2020,1,New York City,11,8C,Floor Underlayments,Bronze
+86,100387,0,51457,1270,4,So. Florida,1,8C,Trailers--Field Office & Storage,Bronze
+87,100387,0,51457,1270,4,No. Florida,2,8C,Trailers--Field Office & Storage,Bronze
+88,1004077,0,27709,4200,3,Los Angeles,20,4C,Structural Steel Fabricators & Contractors,Silver
+89,1004077,0,27709,4200,3,Central Valley CA,0,C,Structural Steel Fabricators & Contractors,Clear Listing
+90,1004077,0,27709,4710,3,Los Angeles,0,B,Welding & Cutting Contractors,Super Alpha
+91,1004165,0,23771,1640,27,Colorado,9,4C,Drywall Contractors,Silver
+92,1004188,0,10091,3110,23,N. New Jersey,2,1C,Paving Contractors,Platinum
+93,1004188,0,10091,3110,23,C/S New Jersey,2,1C,Paving Contractors,Platinum
+94,1004188,0,10091,3520,23,N. New Jersey,4,8C,Road Construction--Heavy & Highway,Bronze
+95,1004188,0,10091,3520,23,C/S New Jersey,4,8C,Road Construction--Heavy & Highway,Bronze
+96,1004188,0,10091,210,10,N. New Jersey,3,2C,"Asphalt Profiling, Recycling & Milling",Gold
+97,1004188,0,10091,210,10,C/S New Jersey,1,2C,"Asphalt Profiling, Recycling & Milling",Gold
+98,1004246,0,13732,60,9,San Francisco,2,1C,Air Conditioning Contractors,Platinum
+99,1004246,0,13732,60,9,Central Valley CA,3,1C,Air Conditioning Contractors,Platinum
+100,1004264,0,30280,3990,3,Los Angeles,5,2C,Fire Sprinkler Systems,Gold
+101,1004264,0,30280,3990,3,Or/Riv/S.Ber,3,2C,Fire Sprinkler Systems,Gold
+102,1004264,0,30280,3990,3,San Diego,1,2C,Fire Sprinkler Systems,Gold
+103,1004264,0,30280,1870,36,Los Angeles,29,8C,Fire Protection Equipment & Systems,Bronze
+104,1004264,0,30280,1870,36,Or/Riv/S.Ber,8,8C,Fire Protection Equipment & Systems,Bronze
+105,1004264,0,30280,1870,36,San Diego,1,4C,Fire Protection Equipment & Systems,Silver
+106,1004268,0,20058,3990,12,Dallas/Ft. Worth,3,2C,Fire Sprinkler Systems,Gold
+107,1004268,0,20058,3990,12,Houston,1,4C,Fire Sprinkler Systems,Silver
+108,1004268,0,20058,1870,12,Dallas/Ft. Worth,0,B,Fire Protection Equipment & Systems,Super Alpha
+109,1004268,0,20058,1870,12,Houston,0,B,Fire Protection Equipment & Systems,Super Alpha
+110,1004268,0,20058,130,12,Dallas/Ft. Worth,2,2C,Alarm Systems,Gold
+111,100475,0,9377,3130,1,Nass & Sufflk,1,2C,Pest Control--Exterminating & Termite Proofing,Gold
+112,100475,0,9377,3130,1,New York City,1,2C,Pest Control--Exterminating & Termite Proofing,Gold
+113,100475,0,9377,3130,1,Wstch/Upst NY,1,2C,Pest Control--Exterminating & Termite Proofing,Gold
+114,100475,0,9377,270,1,Nass & Sufflk,2,2C,"Bird Barriers, Repellents & Controls",Gold
+115,100475,0,9377,270,1,New York City,2,2C,"Bird Barriers, Repellents & Controls",Gold
+116,100475,0,9377,270,1,Wstch/Upst NY,2,2C,"Bird Barriers, Repellents & Controls",Gold
+117,1005140,0,2384,1760,15,OH South,43,8C,Excavating Contractors,Bronze
+118,100551,0,33430,3370,8,Chicago,7,4C,Plumbing Contractors,Silver
+119,100551,0,33430,2844,8,Chicago,22,8C,Mechanical Contractors,Bronze
+120,100555,0,32729,725,3,Los Angeles,2,2C,Concrete Contrs.--Tilt-Up Construction,Gold
+121,100555,0,32729,725,3,Or/Riv/S.Ber,0,C,Concrete Contrs.--Tilt-Up Construction,Clear Listing
+122,100555,0,32729,725,3,San Francisco,3,8C,Concrete Contrs.--Tilt-Up Construction,Bronze
+123,100555,0,32729,725,3,Central Valley CA,5,8C,Concrete Contrs.--Tilt-Up Construction,Bronze
+124,100555,0,32729,725,3,Las Vegas,0,C,Concrete Contrs.--Tilt-Up Construction,Clear Listing
+125,1005596,0,51870,9703,1,Nass & Sufflk,6,4C,Window Treatments & Coverings,Silver
+126,1005596,0,51870,9703,1,New York City,6,4C,Window Treatments & Coverings,Silver
+127,1005596,0,51870,9703,1,Wstch/Upst NY,6,4C,Window Treatments & Coverings,Silver
+128,100583,0,37315,720,2,Balt. & Vic,14,8C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Bronze
+129,100583,0,37315,720,2,Metro D.C.,10,4C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Silver
+130,100583,0,37315,710,2,Balt. & Vic,4,4C,Concrete Contrs.--Reinforced Concrete Structures,Silver
+131,100583,0,37315,710,2,Metro D.C.,16,8C,Concrete Contrs.--Reinforced Concrete Structures,Bronze
+132,100583,0,37315,4337,2,Balt. & Vic,1,8C,Pervious Concrete Pavement,Bronze
+133,100583,0,37315,4337,2,Metro D.C.,1,8C,Pervious Concrete Pavement,Bronze
+134,1005849,0,32737,1680,13,Houston,4,2C,Electrical Contractors,Gold
+135,1005906,0,3856,1723,2,Balt. & Vic,4,8C,Wheelchair Lifts,Bronze
+136,1005931,0,7258,3990,8,Chicago,10,8C,Fire Sprinkler Systems,Bronze
+137,1006063,0,55635,4850,1,Nass & Sufflk,16,4C,Demolition Contractors,Silver
+138,1006091,0,37755,2230,3,Los Angeles,12,2C,Glass & Glazing Contractors,Gold
+139,1006091,0,37755,2230,3,Or/Riv/S.Ber,8,2C,Glass & Glazing Contractors,Gold
+140,1006091,0,37755,4170,7,Los Angeles,0,B,Storefronts,Super Alpha
+141,1006091,0,37755,4170,7,Or/Riv/S.Ber,8,8C,Storefronts,Bronze
+142,1006289,0,17772,4500,27,Colorado,6,2C,Underground Utilities--Contractors,Gold
+143,1006289,0,17772,3790,27,Colorado,1,4C,Sewer Contractors,Silver
+144,1006289,0,17772,4630,27,Colorado,2,4C,Water Main Construction,Silver
+145,1006311,0,24267,2230,8,Chicago,7,4C,Glass & Glazing Contractors,Silver
+146,1006311,0,24267,4170,8,Chicago,13,8C,Storefronts,Bronze
+147,1006342,0,7304,3990,14,OH North,6,8C,Fire Sprinkler Systems,Bronze
+148,1006342,0,7304,3990,14,Pittsburgh,0,B,Fire Sprinkler Systems,Super Alpha
+149,1006440,0,12930,160,23,Balt. & Vic,0,C,Anchors--Masonry & Concrete,Clear Listing
+150,1006440,0,12930,160,23,Boston & E.Ma,0,C,Anchors--Masonry & Concrete,Clear Listing
+151,1006440,0,12930,160,23,PA/DE Edition,2,8C,Anchors--Masonry & Concrete,Bronze
+152,1006440,0,12930,160,23,N. New Jersey,2,8C,Anchors--Masonry & Concrete,Bronze
+153,1006440,0,12930,160,23,Ct. & W. Mass,0,C,Anchors--Masonry & Concrete,Clear Listing
+154,1006440,0,12930,160,23,C/S New Jersey,2,8C,Anchors--Masonry & Concrete,Bronze
+155,1006440,0,12930,160,23,Nass & Sufflk,3,8C,Anchors--Masonry & Concrete,Bronze
+156,1006440,0,12930,160,23,New York City,3,8C,Anchors--Masonry & Concrete,Bronze
+157,1006440,0,12930,160,23,Wstch/Upst NY,3,8C,Anchors--Masonry & Concrete,Bronze
+158,1006898,0,5373,4810,35,Portland,4,8C,Wood Windows,Bronze
+159,1006898,0,5373,4180,35,Portland,0,B,Storm Windows & Doors,Super Alpha
+160,1006927,0,5831,1500,14,OH North,2,4C,Hollow Metal Doors & Frames,Silver
+161,1006927,0,5831,2350,14,OH North,3,8C,Hardware--Builders' Finishing Hardware,Bronze
+162,1006927,0,5831,1600,14,OH North,0,B,Wood Doors--Solid & Veneered,Super Alpha
+163,1007159,0,15233,2610,4,So. Florida,19,8C,Landscape Construction,Bronze
+164,1007159,0,15233,2620,4,So. Florida,5,8C,Landscape Materials & Equipment,Bronze
+165,1007386,0,34586,1680,10,N. New Jersey,12,2C,Electrical Contractors,Gold
+166,1007386,0,34586,1680,10,New York City,0,C,Electrical Contractors,Clear Listing
+167,1007496,0,32158,4500,21,Arizona,3,4C,Underground Utilities--Contractors,Silver
+168,1007496,0,32158,1760,21,Arizona,0,B,Excavating Contractors,Super Alpha
+169,1007496,0,32158,3790,21,Arizona,0,B,Sewer Contractors,Super Alpha
+170,1007496,0,32158,7931,21,Arizona,3,8C,Site Development,Bronze
+171,1007624,0,9725,785,17,Ct. & W. Mass,1,8C,Ready Mixed Concrete,Bronze
+172,100765,0,2322,3890,2,Balt. & Vic,2,4C,Signs,Silver
+173,100780,0,1554,990,30,Wisconsin,2,8C,Dump Trucks & Dump Trailers,Bronze
+174,1008131,0,18281,4850,4,So. Florida,9,2C,Demolition Contractors,Gold
+175,1008196,0,28897,3370,23,N. New Jersey,20,8C,Plumbing Contractors,Bronze
+176,1008196,0,28897,3370,23,C/S New Jersey,15,4C,Plumbing Contractors,Silver
+177,1008246,0,5964,1680,10,N. New Jersey,102,8C,Electrical Contractors,Bronze
+178,1008246,0,5964,1680,10,C/S New Jersey,0,C,Electrical Contractors,Clear Listing
+179,1008246,0,5964,2887,10,N. New Jersey,0,B,M.W.B.E.--Electrical Contractors,Super Alpha
+180,1008246,0,5964,2887,10,C/S New Jersey,0,C,M.W.B.E.--Electrical Contractors,Clear Listing
+181,100828,0,8193,2230,17,Ct. & W. Mass,6,8C,Glass & Glazing Contractors,Bronze
+182,100828,0,8193,4170,17,Ct. & W. Mass,5,8C,Storefronts,Bronze
+183,100828,0,8193,1360,17,Ct. & W. Mass,4,8C,Curtain Walls,Bronze
+184,100844,0,13073,2490,21,Houston,0,C,Insulation Contractors--Cold & Heat,Clear Listing
+185,100844,0,13073,2490,21,Arizona,2,4C,Insulation Contractors--Cold & Heat,Silver
+186,100844,0,13073,2490,21,San Diego,2,8C,Insulation Contractors--Cold & Heat,Bronze
+187,1008514,0,19735,1760,23,N. New Jersey,17,4C,Excavating Contractors,Silver
+188,1008514,0,19735,1760,23,C/S New Jersey,28,4C,Excavating Contractors,Silver
+189,1008514,0,19735,7931,10,N. New Jersey,25,8C,Site Development,Bronze
+190,1008514,0,19735,7931,10,C/S New Jersey,0,B,Site Development,Super Alpha
+191,1008765,0,10713,2610,21,Arizona,13,8C,Landscape Construction,Bronze
+192,100877,0,1175,1755,1,New York City,5,2C,Safety Consultants--Training & Inspections,Gold
+193,100877,0,1175,3681,1,Virginia,1,8C,Schools--Contractors License,Bronze
+194,100877,0,1175,3681,1,Nass & Sufflk,3,8C,Schools--Contractors License,Bronze
+195,100877,0,1175,3681,1,New York City,3,8C,Schools--Contractors License,Bronze
+196,100877,0,1175,3681,1,Wstch/Upst NY,3,8C,Schools--Contractors License,Bronze
+197,100894,0,38398,2040,6,Boston & E.Ma,1,4C,Wood Floors--Hardwood & Parquet,Silver
+198,100894,0,38398,2040,6,Ct. & W. Mass,1,8C,Wood Floors--Hardwood & Parquet,Bronze
+199,100894,0,38398,2040,6,New York City,9,8C,Wood Floors--Hardwood & Parquet,Bronze
+200,100894,0,38398,217,6,Boston & E.Ma,2,8C,Athletic Court Flooring,Bronze
+201,100894,0,38398,217,6,Ct. & W. Mass,0,C,Athletic Court Flooring,Clear Listing
+202,100896,0,33563,1680,13,Houston,10,4C,Electrical Contractors,Silver
+203,100906,0,70202,4850,2,Balt. & Vic,7,8C,Demolition Contractors,Bronze
+204,100906,0,70202,4850,2,Metro D.C.,4,2C,Demolition Contractors,Gold
+205,100906,0,70202,700,2,Metro D.C.,5,4C,"Concrete Breaking, Sawing & Core Drilling",Silver
+206,100906,0,70202,203,2,Metro D.C.,7,8C,Asbestos Removal Contrs. & Consultants,Bronze
+207,1009490,0,14186,430,9,San Francisco,8,8C,Building Maintenance Contractors,Bronze
+208,1009490,0,14186,420,9,San Francisco,5,8C,Building Cleaning Contractors--Exterior,Bronze
+209,1009490,0,14186,5602,9,San Francisco,9,8C,Post Construction Clean Up,Bronze
+210,10097,0,1339,1870,30,Wisconsin,2,4C,Fire Protection Equipment & Systems,Silver
+211,101084,0,18952,1830,16,No. Florida,18,8C,Fences,Bronze
+212,1011385,0,4531,3370,23,N. New Jersey,17,4C,Plumbing Contractors,Silver
+213,1011385,0,4531,3370,23,C/S New Jersey,20,4C,Plumbing Contractors,Silver
+214,1012078,0,47149,1680,10,N. New Jersey,9,2C,Electrical Contractors,Gold
+215,1012078,0,47149,1680,10,C/S New Jersey,60,8C,Electrical Contractors,Bronze
+216,101209,0,17856,2592,4,So. Florida,8,8C,"Solid Surfaces, Countertops & Laminates",Bronze
+217,101209,0,17856,2830,4,So. Florida,5,8C,Marble & Granite,Bronze
+218,101209,0,17856,2828,4,So. Florida,1,8C,Marble--Cultured,Bronze
+219,1012344,0,1615,430,19,Michigan,5,8C,Building Maintenance Contractors,Bronze
+220,1012344,0,1615,5602,19,Michigan,2,8C,Post Construction Clean Up,Bronze
+221,101287,0,7760,2200,2,Balt. & Vic,35,8C,General Contractors,Bronze
+222,101318,0,23746,1500,4,So. Florida,4,8C,Hollow Metal Doors & Frames,Bronze
+223,101318,0,23746,2350,4,So. Florida,3,8C,Hardware--Builders' Finishing Hardware,Bronze
+224,101318,0,23746,1600,4,So. Florida,2,8C,Wood Doors--Solid & Veneered,Bronze
+225,1013247,0,4053,4500,21,Arizona,9,4C,Underground Utilities--Contractors,Silver
+226,101327,0,51907,4200,5,PA/DE Edition,15,8C,Structural Steel Fabricators & Contractors,Bronze
+227,101327,0,51907,4200,5,C/S New Jersey,12,8C,Structural Steel Fabricators & Contractors,Bronze
+228,101327,0,51907,4050,23,PA/DE Edition,9,8C,Steel Buildings--Pre-Engineered,Bronze
+229,101327,0,51907,4050,23,C/S New Jersey,7,4C,Steel Buildings--Pre-Engineered,Silver
+230,1013605,0,942,430,30,Wisconsin,1,2C,Building Maintenance Contractors,Gold
+231,1013605,0,942,5602,30,Wisconsin,1,2C,Post Construction Clean Up,Gold
+232,1013703,0,4104,3110,23,C/S New Jersey,48,8C,Paving Contractors,Bronze
+233,1013703,0,4104,3100,23,C/S New Jersey,13,8C,"Pavement Treatments, Coatings & Sealants",Bronze
+234,1013719,0,5145,1680,23,C/S New Jersey,70,8C,Electrical Contractors,Bronze
+235,1013783,0,11296,2997,14,OH North,2,2C,Painting Contractors,Gold
+236,1013878,0,11133,720,23,C/S New Jersey,23,8C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Bronze
+237,101390,0,69199,770,1,Balt. & Vic,1,4C,Concrete--Precast & Prestressed-Arch. & Struct.,Silver
+238,101390,0,69199,770,1,PA/DE Edition,1,2C,Concrete--Precast & Prestressed-Arch. & Struct.,Gold
+239,101390,0,69199,770,1,N. New Jersey,1,2C,Concrete--Precast & Prestressed-Arch. & Struct.,Gold
+240,101390,0,69199,770,1,OH North,1,8C,Concrete--Precast & Prestressed-Arch. & Struct.,Bronze
+241,101390,0,69199,770,1,OH South,1,8C,Concrete--Precast & Prestressed-Arch. & Struct.,Bronze
+242,101390,0,69199,770,1,Ct. & W. Mass,2,8C,Concrete--Precast & Prestressed-Arch. & Struct.,Bronze
+243,101390,0,69199,770,1,Virginia,1,4C,Concrete--Precast & Prestressed-Arch. & Struct.,Silver
+244,101390,0,69199,770,1,C/S New Jersey,1,2C,Concrete--Precast & Prestressed-Arch. & Struct.,Gold
+245,101390,0,69199,770,1,Pittsburgh,2,8C,Concrete--Precast & Prestressed-Arch. & Struct.,Bronze
+246,101390,0,69199,770,1,New York City,3,2C,Concrete--Precast & Prestressed-Arch. & Struct.,Gold
+247,101390,0,69199,770,1,Metro D.C.,1,4C,Concrete--Precast & Prestressed-Arch. & Struct.,Silver
+248,1013999,0,2386,1430,31,Indiana,2,4C,Automatic Doors,Silver
+249,1013999,0,2386,1560,31,Indiana,2,8C,Sliding Doors,Bronze
+250,1015121,0,1568,430,4,So. Florida,18,8C,Building Maintenance Contractors,Bronze
+251,1015134,0,7746,1520,12,Dallas/Ft. Worth,5,4C,Overhead Doors,Silver
+252,101517,0,6533,2610,33,Central Valley CA,6,4C,Landscape Construction,Silver
+253,1015384,0,43781,1760,23,C/S New Jersey,38,8C,Excavating Contractors,Bronze
+254,1015384,0,43781,4500,23,C/S New Jersey,11,8C,Underground Utilities--Contractors,Bronze
+255,1015544,0,25777,430,10,N. New Jersey,4,4C,Building Maintenance Contractors,Silver
+256,1015544,0,25777,430,10,C/S New Jersey,7,8C,Building Maintenance Contractors,Bronze
+257,1015544,0,25777,420,23,N. New Jersey,0,B,Building Cleaning Contractors--Exterior,Super Alpha
+258,1015544,0,25777,420,23,C/S New Jersey,2,4C,Building Cleaning Contractors--Exterior,Silver
+259,1015544,0,25777,5602,10,N. New Jersey,0,B,Post Construction Clean Up,Super Alpha
+260,1015544,0,25777,2859,10,N. New Jersey,0,B,M.W.B.E.--Building Maintenance Contractors,Super Alpha
+261,1015544,0,25777,2859,10,C/S New Jersey,0,C,M.W.B.E.--Building Maintenance Contractors,Clear Listing
+262,101599,0,4239,720,1,Wstch/Upst NY,3,2C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Gold
+263,101599,0,4239,2130,1,Wstch/Upst NY,6,2C,Foundation Contractors--Concrete & Block,Gold
+264,10167,0,15119,2230,21,Arizona,7,4C,Glass & Glazing Contractors,Silver
+265,10167,0,15119,4170,21,Arizona,5,8C,Storefronts,Bronze
+266,1016843,0,56692,1680,14,OH North,6,2C,Electrical Contractors,Gold
+267,1016843,0,56692,1680,14,OH South,22,8C,Electrical Contractors,Bronze
+268,1016843,0,56692,1680,14,Pittsburgh,13,8C,Electrical Contractors,Bronze
+269,1016843,0,56692,2690,14,OH North,2,8C,Lighting Fixtures & Equipment,Bronze
+270,101705,0,9405,3990,21,Arizona,9,8C,Fire Sprinkler Systems,Bronze
+271,101705,0,9405,3990,21,San Diego,0,C,Fire Sprinkler Systems,Clear Listing
+272,101705,0,9405,1870,21,Arizona,0,B,Fire Protection Equipment & Systems,Super Alpha
+273,101761,0,2414,290,8,Chicago,3,8C,Bleachers & Grandstands,Bronze
+274,101770,0,16522,3515,3,Los Angeles,2,4C,Retaining Wall Systems,Silver
+275,101770,0,16522,3515,3,Or/Riv/S.Ber,2,4C,Retaining Wall Systems,Silver
+276,101770,0,16522,3515,3,San Diego,1,4C,Retaining Wall Systems,Silver
+277,101792,0,62240,1270,1,Nass & Sufflk,6,8C,Trailers--Field Office & Storage,Bronze
+278,101792,0,62240,1270,1,New York City,6,8C,Trailers--Field Office & Storage,Bronze
+279,101792,0,62240,1270,1,Wstch/Upst NY,6,8C,Trailers--Field Office & Storage,Bronze
+280,101824,0,15437,4850,48,San Ant/Aust,14,8C,Demolition Contractors,Bronze
+281,101824,0,15437,4850,48,Texas - South Texas,2,4C,Demolition Contractors,Silver
+282,101824,0,15437,203,48,San Ant/Aust,4,4C,Asbestos Removal Contrs. & Consultants,Silver
+283,101824,0,15437,203,48,Texas - South Texas,2,4C,Asbestos Removal Contrs. & Consultants,Silver
+284,101824,0,15437,1068,48,San Ant/Aust,2,8C,Mold Testing & Removal,Bronze
+285,101824,0,15437,1068,48,Texas - South Texas,2,8C,Mold Testing & Removal,Bronze
+286,101847,0,2753,4850,24,Minnesota,15,4C,Demolition Contractors,Silver
+287,101853,0,25094,3870,2,Balt. & Vic,4,8C,Shower Doors & Bathtub Enclosures,Bronze
+288,101890,0,137206,720,1,New York City,4,1C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Platinum
+289,101890,0,137206,710,1,New York City,2,1C,Concrete Contrs.--Reinforced Concrete Structures,Platinum
+290,101890,0,137206,2130,1,New York City,7,4C,Foundation Contractors--Concrete & Block,Silver
+291,1019,0,6023,2997,35,Portland,10,4C,Painting Contractors,Silver
+292,1019699,0,3209,2490,18,San Ant/Aust,4,8C,Insulation Contractors--Cold & Heat,Bronze
+293,1019699,0,3209,2490,18,Texas - South Texas,1,8C,Insulation Contractors--Cold & Heat,Bronze
+294,1019699,0,3209,1890,18,San Ant/Aust,0,B,Fireproofing Contractors,Super Alpha
+295,1019699,0,3209,1890,18,Texas - South Texas,0,B,Fireproofing Contractors,Super Alpha
+296,101971,0,124524,1760,9,San Francisco,2,1C,Excavating Contractors,Platinum
+297,101971,0,124524,1760,9,Central Valley CA,1,1C,Excavating Contractors,Platinum
+298,101971,0,124524,3110,9,San Francisco,17,8C,Paving Contractors,Bronze
+299,101971,0,124524,3110,9,Central Valley CA,10,8C,Paving Contractors,Bronze
+300,101971,0,124524,7931,33,San Francisco,2,4C,Site Development,Silver
+301,101971,0,124524,7931,33,Central Valley CA,1,4C,Site Development,Silver
+302,101971,0,124524,3790,33,San Francisco,0,B,Sewer Contractors,Super Alpha
+303,101971,0,124524,3790,33,Central Valley CA,0,B,Sewer Contractors,Super Alpha
+304,101971,0,124524,3100,9,San Francisco,0,B,"Pavement Treatments, Coatings & Sealants",Super Alpha
+305,101971,0,124524,3100,9,Central Valley CA,0,B,"Pavement Treatments, Coatings & Sealants",Super Alpha
+306,101971,0,124524,3310,33,San Francisco,0,B,Pipeline Contractors,Super Alpha
+307,101971,0,124524,3310,33,Central Valley CA,0,B,Pipeline Contractors,Super Alpha
+308,101971,0,124524,3090,9,San Francisco,0,B,Pavement Markings,Super Alpha
+309,101971,0,124524,210,33,San Francisco,0,B,"Asphalt Profiling, Recycling & Milling",Super Alpha
+310,101971,0,124524,210,33,Central Valley CA,0,B,"Asphalt Profiling, Recycling & Milling",Super Alpha
+311,1020631,0,2544,1760,22,Seattle,10,2C,Excavating Contractors,Gold
+312,1020631,0,2544,4500,22,Seattle,7,2C,Underground Utilities--Contractors,Gold
+313,10213,0,22414,4850,29,The Carolinas,5,4C,Demolition Contractors,Silver
+314,10213,0,22414,4850,29,Coastal Carolina,0,B,Demolition Contractors,Super Alpha
+315,10213,0,22414,203,29,The Carolinas,4,8C,Asbestos Removal Contrs. & Consultants,Bronze
+316,10213,0,22414,203,29,Coastal Carolina,0,B,Asbestos Removal Contrs. & Consultants,Super Alpha
+317,1021822,0,87072,3370,1,New York City,35,8C,Plumbing Contractors,Bronze
+318,1021822,0,87072,330,1,Nass & Sufflk,5,8C,Boilers,Bronze
+319,1021822,0,87072,330,1,New York City,5,8C,Boilers,Bronze
+320,1021822,0,87072,330,1,Wstch/Upst NY,3,8C,Boilers,Bronze
+321,1022022,0,3677,1680,19,Michigan,32,8C,Electrical Contractors,Bronze
+322,1022022,0,3677,2690,19,Michigan,8,8C,Lighting Fixtures & Equipment,Bronze
+323,102205,0,14611,4220,1,N. New Jersey,2,8C,Stud Welding,Bronze
+324,102205,0,14611,4220,1,C/S New Jersey,1,8C,Stud Welding,Bronze
+325,102205,0,14611,4220,1,Nass & Sufflk,1,4C,Stud Welding,Silver
+326,102205,0,14611,4220,1,New York City,1,4C,Stud Welding,Silver
+327,102205,0,14611,4220,1,Wstch/Upst NY,1,4C,Stud Welding,Silver
+328,1022656,0,24172,4850,27,Colorado,1,1C,Demolition Contractors,Platinum
+329,1022656,0,24172,700,27,Colorado,2,1C,"Concrete Breaking, Sawing & Core Drilling",Platinum
+330,102270,0,24678,3370,8,Chicago,9,4C,Plumbing Contractors,Silver
+331,102270,0,24678,3790,8,Chicago,0,B,Sewer Contractors,Super Alpha
+332,1022702,0,23929,3070,2,Balt. & Vic,3,8C,Toilet Partitions & Cubicles,Bronze
+333,1022702,0,23929,3070,2,Metro D.C.,2,2C,Toilet Partitions & Cubicles,Gold
+334,1022702,0,23929,3870,2,Balt. & Vic,2,8C,Shower Doors & Bathtub Enclosures,Bronze
+335,1022702,0,23929,3870,2,Metro D.C.,2,8C,Shower Doors & Bathtub Enclosures,Bronze
+336,1022782,0,36305,1680,16,No. Florida,14,2C,Electrical Contractors,Gold
+337,1022807,0,7197,1930,8,Chicago,0,B,"Floor Treatments, Coatings & Preservatives",Super Alpha
+338,1022807,0,7197,5425,8,Chicago,0,B,Concrete Polishing,Super Alpha
+339,1022807,0,7197,1980,8,Chicago,7,8C,Industrial Flooring,Bronze
+340,1022925,0,13509,390,5,PA/DE Edition,2,2C,Mason Contractors,Gold
+341,1022925,0,13509,390,5,C/S New Jersey,2,2C,Mason Contractors,Gold
+342,1023604,0,6890,2997,1,Capital Dist,7,4C,Painting Contractors,Silver
+343,1023604,0,6890,2997,1,Wstch/Upst NY,17,4C,Painting Contractors,Silver
+344,1023604,0,6890,3630,1,Capital Dist,4,8C,"Sandblasting, Waterblasting & Dry Ice Blasting",Bronze
+345,1023604,0,6890,3630,1,Wstch/Upst NY,8,8C,"Sandblasting, Waterblasting & Dry Ice Blasting",Bronze
+346,1023604,0,6890,4610,1,Capital Dist,2,8C,"Coatings--Protective, Decorative & Specialty",Bronze
+347,1023604,0,6890,4610,1,Wstch/Upst NY,4,8C,"Coatings--Protective, Decorative & Specialty",Bronze
+348,1023935,0,22468,1760,1,New York City,15,2C,Excavating Contractors,Gold
+349,1023935,0,22468,4500,1,New York City,9,4C,Underground Utilities--Contractors,Silver
+350,1023935,0,22468,3790,1,New York City,12,8C,Sewer Contractors,Bronze
+351,1023935,0,22468,7931,1,New York City,3,1C,Site Development,Platinum
+352,1023935,0,22468,4630,1,New York City,2,1C,Water Main Construction,Platinum
+353,1023935,0,22468,2893,1,NY Edition,4,4C,M.W.B.E.--Excavating Contractors,Silver
+354,1023935,0,22468,2947,1,NY Edition,2,8C,M.W.B.E.--Sewer-Watermain-Underground Utilities,Bronze
+355,1024476,0,12468,390,6,Boston & E.Ma,12,4C,Mason Contractors,Silver
+356,1024566,0,21898,3580,22,Arizona,4,2C,Roofing Contractors,Gold
+357,1024566,0,21898,3580,22,Seattle,7,2C,Roofing Contractors,Gold
+358,1024566,0,21898,2943,22,Arizona,0,B,M.W.B.E.--Roofing Contractors,Super Alpha
+359,1024566,0,21898,2943,22,Seattle,0,B,M.W.B.E.--Roofing Contractors,Super Alpha
+360,1024566,0,21898,3810,22,Seattle,3,8C,Sheet Metal Contractors & Fabricators,Bronze
+361,1024586,0,893,1805,29,The Carolinas,1,8C,Expediters,Bronze
+362,1024586,0,893,1805,29,Texas - South Texas,1,8C,Expediters,Bronze
+363,1024627,0,2427,5425,4,So. Florida,2,1C,Concrete Polishing,Platinum
+364,1024627,0,2427,5425,4,No. Florida,12,8C,Concrete Polishing,Bronze
+365,1024627,0,2427,1930,4,So. Florida,2,4C,"Floor Treatments, Coatings & Preservatives",Silver
+366,1024627,0,2427,1980,4,So. Florida,1,2C,Industrial Flooring,Gold
+367,1024627,0,2427,2010,4,So. Florida,2,4C,Seamless Floors,Silver
+368,1025706,0,14496,4200,27,Colorado,7,8C,Structural Steel Fabricators & Contractors,Bronze
+369,1025919,0,388928,1680,1,Nass & Sufflk,5,1C,Electrical Contractors,Platinum
+370,1025919,0,388928,1680,1,New York City,7,1C,Electrical Contractors,Platinum
+371,1025919,0,388928,492,1,Nass & Sufflk,5,4C,"Cabling Contrs.--Fiber Optic, Network, Telephone",Silver
+372,1025919,0,388928,492,1,New York City,9,4C,"Cabling Contrs.--Fiber Optic, Network, Telephone",Silver
+373,1025919,0,388928,2210,1,Nass & Sufflk,4,8C,Generator Sets,Bronze
+374,1025919,0,388928,2210,1,New York City,4,8C,Generator Sets,Bronze
+375,1026028,0,19232,1640,18,San Ant/Aust,23,8C,Drywall Contractors,Bronze
+376,1026028,0,19232,2520,18,San Ant/Aust,0,B,"Interiors--Offices, Stores, Etc.",Super Alpha
+377,1026135,0,4115,3990,18,San Ant/Aust,11,8C,Fire Sprinkler Systems,Bronze
+378,1026135,0,4115,1870,18,San Ant/Aust,9,8C,Fire Protection Equipment & Systems,Bronze
+379,1026352,0,21849,390,12,Dallas/Ft. Worth,4,4C,Mason Contractors,Silver
+380,1026574,0,21411,2844,24,Minnesota,0,B,Mechanical Contractors,Super Alpha
+381,1026574,0,21411,60,24,Minnesota,3,8C,Air Conditioning Contractors,Bronze
+382,1026574,0,21411,2370,24,Minnesota,2,8C,Heating Contractors,Bronze
+383,1026574,0,21411,2913,24,Minnesota,0,B,M.W.B.E.--H.V.A.C. Contractors,Super Alpha
+384,1026587,0,45512,3670,10,Balt. & Vic,0,C,Scaffolding,Clear Listing
+385,1026587,0,45512,3670,10,PA/DE Edition,2,2C,Scaffolding,Gold
+386,1026587,0,45512,3670,10,N. New Jersey,2,2C,Scaffolding,Gold
+387,1026587,0,45512,3670,10,C/S New Jersey,2,2C,Scaffolding,Gold
+388,1026587,0,45512,3670,10,Metro D.C.,0,C,Scaffolding,Clear Listing
+389,1026671,0,677762,440,1,New York City,7,8C,Building Materials,Bronze
+390,1026671,0,677762,370,1,Nass & Sufflk,0,B,Brick--Face & Common,Super Alpha
+391,1026671,0,677762,370,1,New York City,0,B,Brick--Face & Common,Super Alpha
+392,1026671,0,677762,370,1,Wstch/Upst NY,0,B,Brick--Face & Common,Super Alpha
+393,1026671,0,677762,2839,1,New York City,5,8C,Masons' Materials,Bronze
+394,102673,0,1924,4020,2,Virginia,0,C,Metal Stairs,Clear Listing
+395,102673,0,1924,4020,2,Metro D.C.,1,4C,Metal Stairs,Silver
+396,102673,0,1924,4040,2,Virginia,0,C,Wood Stairs,Clear Listing
+397,102673,0,1924,4040,2,Metro D.C.,2,8C,Wood Stairs,Bronze
+398,102673,0,1924,4030,2,Virginia,0,C,Spiral Stairs,Clear Listing
+399,102673,0,1924,4030,2,Metro D.C.,1,8C,Spiral Stairs,Bronze
+400,1026875,0,1059,4390,10,N. New Jersey,13,8C,Tile Contractors,Bronze
+401,1026913,0,61307,1760,23,N. New Jersey,0,C,Excavating Contractors,Clear Listing
+402,1026913,0,61307,1760,23,C/S New Jersey,4,2C,Excavating Contractors,Gold
+403,1026913,0,61307,3110,23,N. New Jersey,0,C,Paving Contractors,Clear Listing
+404,1026913,0,61307,3110,23,C/S New Jersey,11,2C,Paving Contractors,Gold
+405,1026913,0,61307,7931,23,N. New Jersey,0,C,Site Development,Clear Listing
+406,1026913,0,61307,7931,23,C/S New Jersey,6,2C,Site Development,Gold
+407,1026913,0,61307,4500,23,N. New Jersey,0,C,Underground Utilities--Contractors,Clear Listing
+408,1026913,0,61307,4500,23,C/S New Jersey,12,8C,Underground Utilities--Contractors,Bronze
+409,1027005,0,18933,407,18,San Ant/Aust,13,8C,Building Alterations,Bronze
+410,1027005,0,18933,2520,18,San Ant/Aust,1,4C,"Interiors--Offices, Stores, Etc.",Silver
+411,1027567,0,5638,1760,26,Pittsburgh,55,8C,Excavating Contractors,Bronze
+412,1027567,0,5638,3110,26,Pittsburgh,17,8C,Paving Contractors,Bronze
+413,1027567,0,5638,4500,26,Pittsburgh,0,B,Underground Utilities--Contractors,Super Alpha
+414,1027567,0,5638,7931,26,Pittsburgh,0,B,Site Development,Super Alpha
+415,102767,0,3556,3470,5,PA/DE Edition,2,8C,Refrigeration Equipment--Installation & Repair,Bronze
+416,102767,0,3556,3470,5,C/S New Jersey,0,B,Refrigeration Equipment--Installation & Repair,Super Alpha
+417,1028120,0,7003,430,33,San Francisco,5,8C,Building Maintenance Contractors,Bronze
+418,1028120,0,7003,430,33,Central Valley CA,7,8C,Building Maintenance Contractors,Bronze
+419,1028287,0,21724,2997,4,So. Florida,3,2C,Painting Contractors,Gold
+420,102829,0,16008,4390,2,Balt. & Vic,1,4C,Tile Contractors,Silver
+421,102829,0,16008,4390,2,Metro D.C.,0,C,Tile Contractors,Clear Listing
+422,1028329,0,6401,1830,36,San Diego,8,4C,Fences,Silver
+423,1028440,0,28823,1420,4,So. Florida,7,4C,Marine Construction,Silver
+424,1028440,0,28823,3150,4,So. Florida,6,4C,Pile Driving & Drilling Contractors,Silver
+425,1028440,0,28823,3860,4,So. Florida,4,8C,Shoring Contractors,Bronze
+426,1028449,0,23491,3580,16,No. Florida,7,2C,Roofing Contractors,Gold
+427,1028489,0,15868,2230,18,San Ant/Aust,2,1C,Glass & Glazing Contractors,Platinum
+428,1028489,0,15868,3870,18,San Ant/Aust,6,8C,Shower Doors & Bathtub Enclosures,Bronze
+429,1028522,0,28580,390,16,No. Florida,10,8C,Mason Contractors,Bronze
+430,1028698,0,21204,1830,22,Seattle,9,2C,Fences,Gold
+431,1028852,0,7338,4210,6,Boston & E.Ma,3,4C,Stucco Contractors,Silver
+432,1028852,0,7338,4210,6,Ct. & W. Mass,0,C,Stucco Contractors,Clear Listing
+433,1028852,0,7338,395,6,Boston & E.Ma,1,4C,Brickfacing & Stonefacing,Silver
+434,1028852,0,7338,395,6,Ct. & W. Mass,0,C,Brickfacing & Stonefacing,Clear Listing
+435,1028910,0,1162,3110,33,Central Valley CA,16,8C,Paving Contractors,Bronze
+436,102909,0,40409,2844,5,PA/DE Edition,20,4C,Mechanical Contractors,Silver
+437,102909,0,40409,60,5,PA/DE Edition,13,4C,Air Conditioning Contractors,Silver
+438,1029098,0,19540,1680,27,Colorado,35,8C,Electrical Contractors,Bronze
+439,1029586,0,13049,2200,4,So. Florida,45,8C,General Contractors,Bronze
+440,1029586,0,13049,2520,4,So. Florida,19,8C,"Interiors--Offices, Stores, Etc.",Bronze
+441,102964,0,7217,3890,7,Or/Riv/S.Ber,5,4C,Signs,Silver
+442,1029894,0,18465,3580,9,San Francisco,25,4C,Roofing Contractors,Silver
+443,1029986,0,8577,3990,12,Dallas/Ft. Worth,7,4C,Fire Sprinkler Systems,Silver
+444,1030115,0,24040,1640,4,So. Florida,19,8C,Drywall Contractors,Bronze
+445,1030224,0,3656,1680,19,Michigan,33,8C,Electrical Contractors,Bronze
+446,1030224,0,3656,2210,19,Michigan,0,B,Generator Sets,Super Alpha
+447,1030331,0,1643,3110,31,Indiana,14,8C,Paving Contractors,Bronze
+448,1030331,0,1643,3110,31,Kentucky,2,8C,Paving Contractors,Bronze
+449,1030497,0,25528,4390,2,Metro D.C.,8,8C,Tile Contractors,Bronze
+450,1030497,0,25528,2592,2,Metro D.C.,4,4C,"Solid Surfaces, Countertops & Laminates",Silver
+451,1030497,0,25528,2830,2,Metro D.C.,8,4C,Marble & Granite,Silver
+452,1030577,0,27809,4660,3,Los Angeles,5,2C,Waterproofing Contractors,Gold
+453,1030652,0,13165,3750,3,Los Angeles,4,1C,Security Personnel & Services,Platinum
+454,1030652,0,13165,3750,3,Or/Riv/S.Ber,3,1C,Security Personnel & Services,Platinum
+455,1030652,0,13165,3750,3,San Diego,1,1C,Security Personnel & Services,Platinum
+456,1030739,0,16263,2230,11,Georgia,7,8C,Glass & Glazing Contractors,Bronze
+457,1030760,0,21159,490,4,So. Florida,13,8C,Kitchen Cabinets,Bronze
+458,1030786,0,24939,4850,12,Dallas/Ft. Worth,2,1C,Demolition Contractors,Platinum
+459,1030786,0,24939,203,12,Dallas/Ft. Worth,4,2C,Asbestos Removal Contrs. & Consultants,Gold
+460,103128,0,7612,2997,23,N. New Jersey,22,8C,Painting Contractors,Bronze
+461,103128,0,7612,2997,23,C/S New Jersey,24,8C,Painting Contractors,Bronze
+462,1031718,0,25370,5425,26,Balt. & Vic,4,4C,Concrete Polishing,Silver
+463,1031718,0,25370,5425,26,PA/DE Edition,4,4C,Concrete Polishing,Silver
+464,1031718,0,25370,5425,26,Pittsburgh,2,4C,Concrete Polishing,Silver
+465,1031718,0,25370,1980,5,Balt. & Vic,0,C,Industrial Flooring,Clear Listing
+466,1031718,0,25370,1980,5,PA/DE Edition,2,4C,Industrial Flooring,Silver
+467,1031718,0,25370,1980,5,Pittsburgh,0,C,Industrial Flooring,Clear Listing
+468,103176,0,7440,4850,6,Boston & E.Ma,23,8C,Demolition Contractors,Bronze
+469,103176,0,7440,3600,6,Boston & E.Ma,2,2C,Rubbish Removal,Gold
+470,103176,0,7440,680,6,Boston & E.Ma,6,8C,Compactors--Refuse,Bronze
+471,103176,0,7440,3455,6,Boston & E.Ma,1,2C,Recycling Centers,Gold
+472,1032068,0,29350,4500,33,Central Valley CA,1,2C,Underground Utilities--Contractors,Gold
+473,1032068,0,29350,360,33,Central Valley CA,4,4C,"Boring--Horizontal, Contractors",Silver
+474,1032639,0,1776,1760,30,Wisconsin,30,8C,Excavating Contractors,Bronze
+475,1032639,0,1776,4500,30,Wisconsin,15,8C,Underground Utilities--Contractors,Bronze
+476,1032639,0,1776,7931,30,Wisconsin,15,8C,Site Development,Bronze
+477,103299,0,12734,2580,2,Metro D.C.,1,8C,Laboratory Furniture & Equipment,Bronze
+478,1033123,0,7264,3370,21,Arizona,8,4C,Plumbing Contractors,Silver
+479,1033123,0,7264,3800,21,Arizona,3,8C,Sewer & Pipeline Cleaners & Rehabilitation,Bronze
+480,1033216,0,5063,429,19,Chicago,1,8C,Building Inspection & Commissioning,Bronze
+481,1033216,0,5063,429,19,Michigan,1,8C,Building Inspection & Commissioning,Bronze
+482,1033217,0,21249,715,4,So. Florida,2,2C,Concrete Repair & Restoration Contractors,Gold
+483,1033217,0,21249,715,4,No. Florida,2,8C,Concrete Repair & Restoration Contractors,Bronze
+484,1033342,0,20652,240,4,So. Florida,4,2C,Awnings & Canopies,Gold
+485,1033342,0,20652,240,4,No. Florida,3,2C,Awnings & Canopies,Gold
+486,1033342,0,20652,4590,16,So. Florida,4,8C,Walkway Covers,Bronze
+487,1033342,0,20652,4590,16,No. Florida,1,4C,Walkway Covers,Silver
+488,1033724,0,3204,2260,11,Georgia,1,2C,Glass--Tinting & Coating,Gold
+489,1033724,0,3204,2260,11,Metro D.C.,3,2C,Glass--Tinting & Coating,Gold
+490,1034404,0,5369,492,22,Seattle,5,8C,"Cabling Contrs.--Fiber Optic, Network, Telephone",Bronze
+491,1034404,0,5369,4310,22,Seattle,0,B,Telephone Systems--Interconnect,Super Alpha
+492,1034466,0,10220,4390,8,Chicago,11,8C,Tile Contractors,Bronze
+493,1034466,0,10220,1990,8,Chicago,6,8C,Resilient Floor Contractors,Bronze
+494,1034599,0,21884,1680,15,OH South,12,4C,Electrical Contractors,Silver
+495,1034665,0,25525,1470,1,Nass & Sufflk,6,8C,"Doors--Alum., Bronze & Stainless Steel",Bronze
+496,1034665,0,25525,1470,1,New York City,7,8C,"Doors--Alum., Bronze & Stainless Steel",Bronze
+497,1034665,0,25525,1470,1,Wstch/Upst NY,6,8C,"Doors--Alum., Bronze & Stainless Steel",Bronze
+498,1034676,0,5584,420,36,San Diego,2,4C,Building Cleaning Contractors--Exterior,Silver
+499,1034676,0,5584,5602,36,San Diego,0,B,Post Construction Clean Up,Super Alpha
+500,1034685,0,5506,2997,35,Portland,2,2C,Painting Contractors,Gold
+501,103510,0,139831,2200,4,So. Florida,5,2C,General Contractors,Gold
+502,103510,0,139831,2200,4,No. Florida,0,B,General Contractors,Super Alpha
+503,103510,0,139831,4050,4,So. Florida,3,4C,Steel Buildings--Pre-Engineered,Silver
+504,103510,0,139831,4050,4,No. Florida,0,B,Steel Buildings--Pre-Engineered,Super Alpha
+505,103510,0,139831,4664,4,So. Florida,3,8C,Design Build--General Contractors,Bronze
+506,1035110,0,6001,2200,15,OH South,25,8C,General Contractors,Bronze
+507,1035110,0,6001,2520,15,OH South,3,8C,"Interiors--Offices, Stores, Etc.",Bronze
+508,1035118,0,35203,4850,15,OH South,4,2C,Demolition Contractors,Gold
+509,1035145,0,66905,1640,2,Metro D.C.,3,2C,Drywall Contractors,Gold
+510,1035145,0,66905,20,2,Metro D.C.,1,4C,Acoustical Contractors,Silver
+511,1035145,0,66905,2145,2,Metro D.C.,6,4C,Framing Systems--Light Gauge,Silver
+512,1035171,0,7954,2200,2,Metro D.C.,54,8C,General Contractors,Bronze
+513,1035358,0,25593,1680,36,San Diego,3,2C,Electrical Contractors,Gold
+514,1035496,0,11209,1680,32,New Orleans,3,8C,Electrical Contractors,Bronze
+515,1035504,0,33697,710,16,No. Florida,2,2C,Concrete Contrs.--Reinforced Concrete Structures,Gold
+516,1035504,0,33697,2130,16,No. Florida,1,4C,Foundation Contractors--Concrete & Block,Silver
+517,1035548,0,44067,3515,9,San Francisco,1,2C,Retaining Wall Systems,Gold
+518,1035581,0,9017,700,4,So. Florida,2,1C,"Concrete Breaking, Sawing & Core Drilling",Platinum
+519,1035634,0,10933,1830,1,N. New Jersey,12,4C,Fences,Silver
+520,1035634,0,10933,1830,1,C/S New Jersey,12,4C,Fences,Silver
+521,1035634,0,10933,1830,1,New York City,17,4C,Fences,Silver
+522,1035695,0,2980,1286,2,Balt. & Vic,0,C,Water Pressure Cleaning Equipment,Clear Listing
+523,1035695,0,2980,1286,2,Metro D.C.,2,8C,Water Pressure Cleaning Equipment,Bronze
+524,1035845,0,35213,3370,3,Los Angeles,14,4C,Plumbing Contractors,Silver
+525,1035845,0,35213,3790,3,Los Angeles,7,8C,Sewer Contractors,Bronze
+526,1036038,0,29460,3110,4,So. Florida,2,2C,Paving Contractors,Gold
+527,1036038,0,29460,3090,4,So. Florida,0,B,Pavement Markings,Super Alpha
+528,1036038,0,29460,3100,4,So. Florida,0,B,"Pavement Treatments, Coatings & Sealants",Super Alpha
+529,1036038,0,29460,210,4,So. Florida,1,8C,"Asphalt Profiling, Recycling & Milling",Bronze
+530,103632,0,32607,1680,15,OH South,3,2C,Electrical Contractors,Gold
+531,1037067,0,1660,2610,13,Houston,17,8C,Landscape Construction,Bronze
+532,103725,0,27315,2230,9,San Francisco,11,4C,Glass & Glazing Contractors,Silver
+533,103725,0,27315,4170,9,San Francisco,5,4C,Storefronts,Silver
+534,103725,0,27315,1360,9,San Francisco,0,B,Curtain Walls,Super Alpha
+535,103754,0,28404,2997,6,Boston & E.Ma,6,2C,Painting Contractors,Gold
+536,103754,0,28404,4600,6,Boston & E.Ma,2,8C,Wall Coverings & Wallpapers,Bronze
+537,103762,0,25739,4523,1,Nass & Sufflk,6,8C,Vacuum Waste Disposal--Contractors & Systems,Bronze
+538,103762,0,25739,4523,1,New York City,5,8C,Vacuum Waste Disposal--Contractors & Systems,Bronze
+539,103762,0,25739,4523,1,Wstch/Upst NY,4,8C,Vacuum Waste Disposal--Contractors & Systems,Bronze
+540,103762,0,25739,3760,1,Nass & Sufflk,3,4C,Septic Tanks--Installation & Service,Silver
+541,103762,0,25739,3760,1,New York City,3,4C,Septic Tanks--Installation & Service,Silver
+542,103762,0,25739,3760,1,Wstch/Upst NY,2,4C,Septic Tanks--Installation & Service,Silver
+543,1038293,0,5005,2260,16,No. Florida,7,8C,Glass--Tinting & Coating,Bronze
+544,103836,0,58398,3430,3,Los Angeles,9,8C,Railings,Bronze
+545,103836,0,58398,3430,3,Or/Riv/S.Ber,10,8C,Railings,Bronze
+546,103836,0,58398,3430,3,San Francisco,14,8C,Railings,Bronze
+547,103836,0,58398,3430,3,Arizona,4,8C,Railings,Bronze
+548,103836,0,58398,3430,3,Seattle,7,8C,Railings,Bronze
+549,103836,0,58398,3430,3,Central Valley CA,3,8C,Railings,Bronze
+550,103836,0,58398,3430,3,Las Vegas,2,8C,Railings,Bronze
+551,103836,0,58398,3430,3,Portland,6,8C,Railings,Bronze
+552,103836,0,58398,3430,3,San Diego,8,8C,Railings,Bronze
+553,103836,0,58398,3430,3,Utah,2,8C,Railings,Bronze
+554,103836,0,58398,3430,3,Idaho & E Washington,2,8C,Railings,Bronze
+555,103836,0,58398,140,3,Los Angeles,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+556,103836,0,58398,140,3,Or/Riv/S.Ber,3,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+557,103836,0,58398,140,3,San Francisco,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+558,103836,0,58398,140,3,Arizona,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+559,103836,0,58398,140,3,Seattle,3,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+560,103836,0,58398,140,3,Central Valley CA,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+561,103836,0,58398,140,3,Las Vegas,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+562,103836,0,58398,140,3,Portland,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+563,103836,0,58398,140,3,San Diego,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+564,103836,0,58398,140,3,Utah,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+565,103836,0,58398,140,3,Idaho & E Washington,2,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+566,1038785,0,3485,2140,16,So. Florida,4,8C,Fountains & Waterfalls--Display,Bronze
+567,1038785,0,3485,2140,16,No. Florida,2,8C,Fountains & Waterfalls--Display,Bronze
+568,1038964,0,27220,1680,4,So. Florida,26,4C,Electrical Contractors,Silver
+569,1039663,0,46309,1640,4,So. Florida,32,8C,Drywall Contractors,Bronze
+570,1039663,0,46309,20,4,So. Florida,11,8C,Acoustical Contractors,Bronze
+571,1039663,0,46309,2145,4,So. Florida,11,8C,Framing Systems--Light Gauge,Bronze
+572,1040281,0,9351,3580,4,So. Florida,5,1C,Roofing Contractors,Platinum
+573,1040281,0,9351,3580,4,No. Florida,7,1C,Roofing Contractors,Platinum
+574,1040556,0,15805,1640,4,So. Florida,15,4C,Drywall Contractors,Silver
+575,1040556,0,15805,20,4,So. Florida,0,B,Acoustical Contractors,Super Alpha
+576,1040556,0,15805,2145,4,So. Florida,0,B,Framing Systems--Light Gauge,Super Alpha
+577,1040556,0,15805,3330,4,So. Florida,0,B,Plastering & Lathing Contractors,Super Alpha
+578,104145,0,32627,1760,6,Boston & E.Ma,16,4C,Excavating Contractors,Silver
+579,104145,0,32627,1760,6,Rhode Island,3,4C,Excavating Contractors,Silver
+580,104145,0,32627,3110,6,Boston & E.Ma,11,4C,Paving Contractors,Silver
+581,104145,0,32627,3110,6,Rhode Island,2,4C,Paving Contractors,Silver
+582,1041510,0,2051,830,19,Michigan,8,8C,"Contractors Equipment--Rental, Sales & Service",Bronze
+583,104189,0,66512,4200,7,Los Angeles,1,1C,Structural Steel Fabricators & Contractors,Platinum
+584,104189,0,66512,4200,7,Or/Riv/S.Ber,1,1C,Structural Steel Fabricators & Contractors,Platinum
+585,1041942,0,5793,2610,16,No. Florida,18,4C,Landscape Construction,Silver
+586,1041942,0,5793,2620,16,No. Florida,4,8C,Landscape Materials & Equipment,Bronze
+587,104250,0,8346,3050,27,Colorado,1,8C,Partitions--Folding & Operable Walls,Bronze
+588,104268,0,3614,3130,18,San Ant/Aust,2,4C,Pest Control--Exterminating & Termite Proofing,Silver
+589,104268,0,3614,270,18,San Ant/Aust,3,8C,"Bird Barriers, Repellents & Controls",Bronze
+590,1043745,0,32723,2997,4,So. Florida,12,4C,Painting Contractors,Silver
+591,1044229,0,1962,180,35,Portland,10,8C,Architectural & Cabinet Woodwork,Bronze
+592,1044229,0,1962,490,35,Portland,0,B,Kitchen Cabinets,Super Alpha
+593,104449,0,2222,3110,10,N. New Jersey,15,4C,Paving Contractors,Silver
+594,104449,0,2222,3110,10,C/S New Jersey,18,4C,Paving Contractors,Silver
+595,104469,0,85810,2200,10,N. New Jersey,5,2C,General Contractors,Gold
+596,104469,0,85810,2200,10,C/S New Jersey,51,8C,General Contractors,Bronze
+597,104469,0,85810,2520,10,N. New Jersey,1,4C,"Interiors--Offices, Stores, Etc.",Silver
+598,104469,0,85810,2520,10,C/S New Jersey,0,B,"Interiors--Offices, Stores, Etc.",Super Alpha
+599,104483,0,1552,3372,13,Houston,3,8C,Plumbing Fixtures & Supplies,Bronze
+600,104528,0,2296,3130,1,Nass & Sufflk,7,8C,Pest Control--Exterminating & Termite Proofing,Bronze
+601,104528,0,2296,3130,1,New York City,7,8C,Pest Control--Exterminating & Termite Proofing,Bronze
+602,104528,0,2296,3130,1,Wstch/Upst NY,5,8C,Pest Control--Exterminating & Termite Proofing,Bronze
+603,104601,0,36550,1830,8,Chicago,4,1C,Fences,Platinum
+604,104601,0,36550,1830,8,Chicago,9,2C,Fences,Gold
+605,104601,0,36550,1830,8,Chicago,0,C,Fences,Clear Listing
+606,104601,0,36550,1830,8,Chicago,0,C,Fences,Clear Listing
+607,104601,0,36550,2530,8,Chicago,7,8C,Ironwork--Miscellaneous & Ornamental,Bronze
+608,104601,0,36550,2530,8,Chicago,16,8C,Ironwork--Miscellaneous & Ornamental,Bronze
+609,104601,0,36550,1026,8,Chicago,3,4C,Gates & Gate Operators,Silver
+610,104601,0,36550,1026,8,Chicago,5,8C,Gates & Gate Operators,Bronze
+611,104601,0,36550,1026,8,Chicago,7,8C,Gates & Gate Operators,Bronze
+612,104601,0,36550,2310,8,Chicago,1,8C,Guardrail Contractors & Manufacturers,Bronze
+613,104616,0,31051,980,1,New York City,8,4C,Cranes,Silver
+614,104616,0,31051,4470,1,Nass & Sufflk,7,8C,Trucking & Rigging,Bronze
+615,104616,0,31051,4470,1,New York City,8,8C,Trucking & Rigging,Bronze
+616,104616,0,31051,4470,1,Wstch/Upst NY,7,8C,Trucking & Rigging,Bronze
+617,104618,0,9014,3600,10,N. New Jersey,9,4C,Rubbish Removal,Silver
+618,10464,0,33900,2230,4,So. Florida,14,2C,Glass & Glazing Contractors,Gold
+619,10464,0,33900,4170,4,So. Florida,5,2C,Storefronts,Gold
+620,104679,0,26145,1600,1,New York City,8,8C,Wood Doors--Solid & Veneered,Bronze
+621,1046931,0,7369,2592,7,Los Angeles,9,8C,"Solid Surfaces, Countertops & Laminates",Bronze
+622,1046931,0,7369,2592,7,Or/Riv/S.Ber,3,4C,"Solid Surfaces, Countertops & Laminates",Silver
+623,1046931,0,7369,2592,7,San Diego,3,8C,"Solid Surfaces, Countertops & Laminates",Bronze
+624,10470,0,5144,390,30,Wisconsin,2,4C,Mason Contractors,Silver
+625,10470,0,5144,4128,30,Wisconsin,2,8C,Stone Masons,Bronze
+626,104721,0,1668,3110,5,PA/DE Edition,30,8C,Paving Contractors,Bronze
+627,104740,0,8865,3570,8,Chicago,2,2C,Wood Roof Trusses,Gold
+628,104824,0,3728,2200,18,San Ant/Aust,46,8C,General Contractors,Bronze
+629,104943,0,24746,3110,15,OH South,1,1C,Paving Contractors,Platinum
+630,104985,0,9227,2200,4,So. Florida,55,8C,General Contractors,Bronze
+631,104985,0,9227,2520,4,So. Florida,29,8C,"Interiors--Offices, Stores, Etc.",Bronze
+632,105012,0,89460,3000,10,N. New Jersey,2,2C,Panel Systems--Prefabricated,Gold
+633,105012,0,89460,3000,10,Nass & Sufflk,2,2C,Panel Systems--Prefabricated,Gold
+634,105012,0,89460,3000,10,New York City,2,2C,Panel Systems--Prefabricated,Gold
+635,105012,0,89460,3000,10,Wstch/Upst NY,2,2C,Panel Systems--Prefabricated,Gold
+636,105021,0,17593,3110,23,N. New Jersey,23,8C,Paving Contractors,Bronze
+637,105021,0,17593,3110,23,C/S New Jersey,31,8C,Paving Contractors,Bronze
+638,1050353,0,5490,2610,20,Virginia,18,8C,Landscape Construction,Bronze
+639,105115,0,4600,780,1,Capital Dist,2,4C,"Concrete--Precast-Sanitary, Drainage, Utility",Silver
+640,105115,0,4600,780,1,N. New Jersey,4,8C,"Concrete--Precast-Sanitary, Drainage, Utility",Bronze
+641,105115,0,4600,780,1,Nass & Sufflk,3,4C,"Concrete--Precast-Sanitary, Drainage, Utility",Silver
+642,105115,0,4600,780,1,New York City,3,4C,"Concrete--Precast-Sanitary, Drainage, Utility",Silver
+643,105115,0,4600,780,1,Wstch/Upst NY,3,4C,"Concrete--Precast-Sanitary, Drainage, Utility",Silver
+644,1051161,0,25522,1760,20,Virginia,5,2C,Excavating Contractors,Gold
+645,1051161,0,25522,3110,20,Virginia,4,2C,Paving Contractors,Gold
+646,1051161,0,25522,3520,20,Virginia,2,8C,Road Construction--Heavy & Highway,Bronze
+647,1051161,0,25522,210,20,Virginia,1,4C,"Asphalt Profiling, Recycling & Milling",Silver
+648,105227,0,10210,720,8,Chicago,10,4C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Silver
+649,105227,0,10210,7227,8,Chicago,5,8C,"Concrete--Stamped, Stained & Decorative",Bronze
+650,1052306,0,5364,2490,20,Virginia,3,4C,Insulation Contractors--Cold & Heat,Silver
+651,105274,0,45826,3580,1,Nass & Sufflk,20,8C,Roofing Contractors,Bronze
+652,105274,0,45826,3580,1,New York City,47,8C,Roofing Contractors,Bronze
+653,105274,0,45826,3580,1,Wstch/Upst NY,29,8C,Roofing Contractors,Bronze
+654,105274,0,45826,390,1,Nass & Sufflk,18,8C,Mason Contractors,Bronze
+655,105274,0,45826,390,1,New York City,32,8C,Mason Contractors,Bronze
+656,105274,0,45826,390,1,Wstch/Upst NY,15,8C,Mason Contractors,Bronze
+657,105274,0,45826,4660,1,Nass & Sufflk,10,8C,Waterproofing Contractors,Bronze
+658,105274,0,45826,4660,1,New York City,24,8C,Waterproofing Contractors,Bronze
+659,105274,0,45826,4660,1,Wstch/Upst NY,14,8C,Waterproofing Contractors,Bronze
+660,1053088,0,15777,3370,20,Virginia,2,1C,Plumbing Contractors,Platinum
+661,1053088,0,15777,3370,20,Metro D.C.,24,8C,Plumbing Contractors,Bronze
+662,1053088,0,15777,3320,2,Virginia,2,8C,Piping--Industrial,Bronze
+663,1053088,0,15777,3320,2,Metro D.C.,2,8C,Piping--Industrial,Bronze
+664,105311,0,23603,1760,5,PA/DE Edition,17,4C,Excavating Contractors,Silver
+665,1053173,0,5555,2200,20,Virginia,24,4C,General Contractors,Silver
+666,105406,0,22949,3330,3,Los Angeles,4,4C,Plastering & Lathing Contractors,Silver
+667,105406,0,22949,4210,3,Los Angeles,4,8C,Stucco Contractors,Bronze
+668,1054064,0,21807,4850,33,Central Valley CA,12,4C,Demolition Contractors,Silver
+669,1054383,0,15236,4500,20,Virginia,20,8C,Underground Utilities--Contractors,Bronze
+670,1054383,0,15236,4630,20,Virginia,1,8C,Water Main Construction,Bronze
+671,1054383,0,15236,4666,20,Virginia,1,8C,Piping--Linestopping & Tapping,Bronze
+672,105455,0,3243,1900,27,Colorado,1,4C,Flagpoles,Silver
+673,1054925,0,21365,710,36,San Diego,11,8C,Concrete Contrs.--Reinforced Concrete Structures,Bronze
+674,1054925,0,21365,2130,36,San Diego,3,8C,Foundation Contractors--Concrete & Block,Bronze
+675,105527,0,31948,3890,10,PA/DE Edition,8,8C,Signs,Bronze
+676,105527,0,31948,3890,10,N. New Jersey,2,2C,Signs,Gold
+677,105527,0,31948,3890,10,C/S New Jersey,5,8C,Signs,Bronze
+678,105527,0,31948,3890,10,New York City,8,2C,Signs,Gold
+679,105527,0,31948,4270,1,PA/DE Edition,0,C,"Tablets, Plaques & Sign Letters",Clear Listing
+680,105527,0,31948,4270,1,N. New Jersey,0,C,"Tablets, Plaques & Sign Letters",Clear Listing
+681,105527,0,31948,4270,1,C/S New Jersey,0,C,"Tablets, Plaques & Sign Letters",Clear Listing
+682,105527,0,31948,4270,1,Nass & Sufflk,1,2C,"Tablets, Plaques & Sign Letters",Gold
+683,105527,0,31948,4270,1,New York City,1,2C,"Tablets, Plaques & Sign Letters",Gold
+684,105527,0,31948,4270,1,Wstch/Upst NY,1,2C,"Tablets, Plaques & Sign Letters",Gold
+685,1055318,0,1553,3670,20,Virginia,3,8C,Scaffolding,Bronze
+686,1055318,0,1553,1200,20,Virginia,1,8C,Safety Nets & Fall Protection Equip.,Bronze
+687,105575,0,21399,2200,15,OH South,21,8C,General Contractors,Bronze
+688,1055961,0,13983,720,22,Seattle,1,1C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Platinum
+689,1055961,0,13983,7227,22,Seattle,4,8C,"Concrete--Stamped, Stained & Decorative",Bronze
+690,105656,0,55427,8,1,New York City,26,8C,Access Control Systems,Bronze
+691,105656,0,55427,8,1,Wstch/Upst NY,18,8C,Access Control Systems,Bronze
+692,105656,0,55427,1026,1,N. New Jersey,0,C,Gates & Gate Operators,Clear Listing
+693,105656,0,55427,1026,1,Ct. & W. Mass,5,8C,Gates & Gate Operators,Bronze
+694,105656,0,55427,1026,1,New York City,8,8C,Gates & Gate Operators,Bronze
+695,105656,0,55427,1026,1,Wstch/Upst NY,5,8C,Gates & Gate Operators,Bronze
+696,1057531,0,13168,4410,20,Virginia,1,4C,Portable Toilets,Silver
+697,1057531,0,13168,3760,20,Virginia,1,4C,Septic Tanks--Installation & Service,Silver
+698,105762,0,20823,2997,27,Colorado,7,4C,Painting Contractors,Silver
+699,105762,0,20823,4336,27,Colorado,3,8C,Tenant Improvement,Bronze
+700,1057626,0,10354,1870,20,Virginia,6,8C,Fire Protection Equipment & Systems,Bronze
+701,1057626,0,10354,3990,20,Virginia,2,4C,Fire Sprinkler Systems,Silver
+702,1057677,0,29246,3370,10,N. New Jersey,24,8C,Plumbing Contractors,Bronze
+703,1057677,0,29246,3370,10,C/S New Jersey,25,8C,Plumbing Contractors,Bronze
+704,105841,0,3832,216,2,Balt. & Vic,3,2C,Associations,Gold
+705,1058626,0,15415,4500,20,Virginia,9,4C,Underground Utilities--Contractors,Silver
+706,1058626,0,15415,3790,20,Virginia,5,8C,Sewer Contractors,Bronze
+707,1058696,0,3377,9703,20,Virginia,3,8C,Window Treatments & Coverings,Bronze
+708,105870,0,541,1520,26,Pittsburgh,5,8C,Overhead Doors,Bronze
+709,105903,0,26891,2997,13,Houston,1,2C,Painting Contractors,Gold
+710,1059531,0,26769,1680,9,San Francisco,55,8C,Electrical Contractors,Bronze
+711,106025,0,4225,140,2,Balt. & Vic,3,8C,Architectural Metals--Mfrs. & Distrs.,Bronze
+712,1060649,0,1902,1760,26,OH North,33,8C,Excavating Contractors,Bronze
+713,1060649,0,1902,1760,26,OH South,33,8C,Excavating Contractors,Bronze
+714,1060649,0,1902,1760,26,Pittsburgh,16,4C,Excavating Contractors,Silver
+715,106075,0,2927,3890,23,N. New Jersey,14,8C,Signs,Bronze
+716,106075,0,2927,3890,23,C/S New Jersey,13,8C,Signs,Bronze
+717,106080,0,29159,1990,1,New York City,13,8C,Resilient Floor Contractors,Bronze
+718,106080,0,29159,1940,1,Nass & Sufflk,7,4C,Carpets & Rugs,Silver
+719,106080,0,29159,1940,1,New York City,6,4C,Carpets & Rugs,Silver
+720,106080,0,29159,1940,1,Wstch/Upst NY,6,4C,Carpets & Rugs,Silver
+721,106093,0,78334,1680,3,Los Angeles,25,2C,Electrical Contractors,Gold
+722,106093,0,78334,1680,3,Or/Riv/S.Ber,52,4C,Electrical Contractors,Silver
+723,10610,0,1704,720,30,Wisconsin,0,B,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Super Alpha
+724,10610,0,1704,2130,30,Wisconsin,6,8C,Foundation Contractors--Concrete & Block,Bronze
+725,1061743,0,9051,3370,2,Balt. & Vic,18,8C,Plumbing Contractors,Bronze
+726,1061743,0,9051,3370,2,Pittsburgh,16,8C,Plumbing Contractors,Bronze
+727,1061743,0,9051,3370,2,West Virginia,0,C,Plumbing Contractors,Clear Listing
+728,1061837,0,31236,2592,2,Metro D.C.,8,8C,"Solid Surfaces, Countertops & Laminates",Bronze
+729,1061837,0,31236,2830,2,Balt. & Vic,2,8C,Marble & Granite,Bronze
+730,1061837,0,31236,2830,2,Metro D.C.,15,8C,Marble & Granite,Bronze
+731,106194,0,25753,4200,10,N. New Jersey,14,4C,Structural Steel Fabricators & Contractors,Silver
+732,106194,0,25753,2530,10,N. New Jersey,4,4C,Ironwork--Miscellaneous & Ornamental,Silver
+733,10622,0,18274,2848,21,Arizona,6,8C,Millwork,Bronze
+734,10622,0,18274,180,21,Arizona,11,8C,Architectural & Cabinet Woodwork,Bronze
+735,10622,0,18274,2592,21,Arizona,5,8C,"Solid Surfaces, Countertops & Laminates",Bronze
+736,1062311,0,30565,3370,5,PA/DE Edition,4,2C,Plumbing Contractors,Gold
+737,1062311,0,30565,3320,5,PA/DE Edition,1,4C,Piping--Industrial,Silver
+738,106260,0,34811,20,7,Los Angeles,13,8C,Acoustical Contractors,Bronze
+739,106260,0,34811,20,7,Or/Riv/S.Ber,5,4C,Acoustical Contractors,Silver
+740,1062738,0,8922,3990,19,Michigan,6,8C,Fire Sprinkler Systems,Bronze
+741,1062769,0,17444,2200,13,Dallas/Ft. Worth,62,8C,General Contractors,Bronze
+742,1062769,0,17444,2200,13,Houston,42,8C,General Contractors,Bronze
+743,1062769,0,17444,2200,13,San Ant/Aust,39,8C,General Contractors,Bronze
+744,1062769,0,17444,2200,13,Texas - South Texas,5,8C,General Contractors,Bronze
+745,1062769,0,17444,2200,13,Texas - West Texas,6,8C,General Contractors,Bronze
+746,1062814,0,1786,2997,14,OH North,28,8C,Painting Contractors,Bronze
+747,1062814,0,1786,2997,14,OH South,28,8C,Painting Contractors,Bronze
+748,1062824,0,16766,130,27,Colorado,7,8C,Alarm Systems,Bronze
+749,1062824,0,16766,1870,27,Colorado,8,4C,Fire Protection Equipment & Systems,Silver
+750,1062824,0,16766,3990,27,Colorado,8,8C,Fire Sprinkler Systems,Bronze
+751,1062846,0,3526,3800,4,So. Florida,4,8C,Sewer & Pipeline Cleaners & Rehabilitation,Bronze
+752,1062846,0,3526,4668,4,So. Florida,0,B,Hydro Excavation,Super Alpha
+753,1062880,0,3900,4850,12,Dallas/Ft. Worth,24,8C,Demolition Contractors,Bronze
+754,1062880,0,3900,203,12,Dallas/Ft. Worth,7,4C,Asbestos Removal Contrs. & Consultants,Silver
+755,1062880,0,3900,1068,12,Dallas/Ft. Worth,5,4C,Mold Testing & Removal,Silver
+756,1063393,0,3384,3580,2,Balt. & Vic,12,4C,Roofing Contractors,Silver
+757,1063393,0,3384,3885,2,Balt. & Vic,1,4C,Siding Contractors,Silver
+758,106359,0,111058,2230,1,N. New Jersey,1,2C,Glass & Glazing Contractors,Gold
+759,106359,0,111058,2230,1,C/S New Jersey,2,2C,Glass & Glazing Contractors,Gold
+760,106359,0,111058,2230,1,New York City,13,2C,Glass & Glazing Contractors,Gold
+761,106359,0,111058,4170,1,N. New Jersey,1,2C,Storefronts,Gold
+762,106359,0,111058,4170,1,C/S New Jersey,4,8C,Storefronts,Bronze
+763,106359,0,111058,4170,1,New York City,7,2C,Storefronts,Gold
+764,106359,0,111058,1360,10,N. New Jersey,2,2C,Curtain Walls,Gold
+765,106359,0,111058,1360,10,C/S New Jersey,1,2C,Curtain Walls,Gold
+766,106359,0,111058,1360,10,New York City,5,2C,Curtain Walls,Gold
+767,106373,0,51062,2844,2,Metro D.C.,15,4C,Mechanical Contractors,Silver
+768,106373,0,51062,60,2,Metro D.C.,15,8C,Air Conditioning Contractors,Bronze
+769,106373,0,51062,2370,2,Metro D.C.,5,8C,Heating Contractors,Bronze
+770,1063820,0,3239,3870,2,Metro D.C.,4,8C,Shower Doors & Bathtub Enclosures,Bronze
+771,1063858,0,23813,180,3,Los Angeles,9,2C,Architectural & Cabinet Woodwork,Gold
+772,1063858,0,23813,180,3,Or/Riv/S.Ber,7,2C,Architectural & Cabinet Woodwork,Gold
+773,1063858,0,23813,180,3,Central Valley CA,1,2C,Architectural & Cabinet Woodwork,Gold
+774,1063858,0,23813,180,3,San Diego,2,2C,Architectural & Cabinet Woodwork,Gold
+775,1063858,0,23813,490,3,Los Angeles,3,2C,Kitchen Cabinets,Gold
+776,1063858,0,23813,490,3,Or/Riv/S.Ber,2,2C,Kitchen Cabinets,Gold
+777,1063858,0,23813,490,3,Central Valley CA,1,2C,Kitchen Cabinets,Gold
+778,1063858,0,23813,490,3,San Diego,2,2C,Kitchen Cabinets,Gold
+779,106391,0,14797,580,1,Boston & E.Ma,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+780,106391,0,14797,580,1,Indiana,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+781,106391,0,14797,580,1,Kentucky,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+782,106391,0,14797,580,1,Los Angeles,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+783,106391,0,14797,580,1,So. Florida,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+784,106391,0,14797,580,1,PA/DE Edition,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+785,106391,0,14797,580,1,Or/Riv/S.Ber,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+786,106391,0,14797,580,1,Chicago,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+787,106391,0,14797,580,1,San Francisco,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+788,106391,0,14797,580,1,N. New Jersey,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+789,106391,0,14797,580,1,Georgia,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+790,106391,0,14797,580,1,Dallas/Ft. Worth,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+791,106391,0,14797,580,1,Houston,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+792,106391,0,14797,580,1,OH North,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+793,106391,0,14797,580,1,OH South,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+794,106391,0,14797,580,1,No. Florida,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+795,106391,0,14797,580,1,Ct. & W. Mass,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+796,106391,0,14797,580,1,San Ant/Aust,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+797,106391,0,14797,580,1,Michigan,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+798,106391,0,14797,580,1,Virginia,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+799,106391,0,14797,580,1,Arizona,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+800,106391,0,14797,580,1,Seattle,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+801,106391,0,14797,580,1,C/S New Jersey,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+802,106391,0,14797,580,1,Minnesota,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+803,106391,0,14797,580,1,Pittsburgh,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+804,106391,0,14797,580,1,Colorado,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+805,106391,0,14797,580,1,The Carolinas,1,8C,"Chalkboards, Markerboards & Tackboards",Bronze
+806,106391,0,14797,580,1,Wisconsin,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+807,106391,0,14797,580,1,Central Valley CA,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+808,106391,0,14797,580,1,Portland,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+809,106391,0,14797,580,1,San Diego,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+810,106391,0,14797,580,1,Coastal Carolina,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+811,106391,0,14797,580,1,New York-Upstate,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+812,106391,0,14797,580,1,Maine Vermont,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+813,106391,0,14797,580,1,Iowa,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+814,106391,0,14797,580,1,Nass & Sufflk,2,8C,"Chalkboards, Markerboards & Tackboards",Bronze
+815,106391,0,14797,580,1,New York City,2,8C,"Chalkboards, Markerboards & Tackboards",Bronze
+816,106391,0,14797,580,1,Metro D.C.,0,C,"Chalkboards, Markerboards & Tackboards",Clear Listing
+817,106391,0,14797,580,1,Wstch/Upst NY,2,8C,"Chalkboards, Markerboards & Tackboards",Bronze
+818,1063982,0,18947,3890,1,N. New Jersey,10,8C,Signs,Bronze
+819,1063982,0,18947,3890,1,Ct. & W. Mass,5,8C,Signs,Bronze
+820,1063982,0,18947,3890,1,Nass & Sufflk,3,1C,Signs,Platinum
+821,1063982,0,18947,3890,1,New York City,3,1C,Signs,Platinum
+822,1063982,0,18947,3890,1,Wstch/Upst NY,3,1C,Signs,Platinum
+823,1064064,0,1251,1880,8,Chicago,5,8C,Fireplaces--Manufactured,Bronze
+824,1064137,0,77447,2200,18,Dallas/Ft. Worth,36,8C,General Contractors,Bronze
+825,1064137,0,77447,2200,18,Houston,13,4C,General Contractors,Silver
+826,1064137,0,77447,2200,18,San Ant/Aust,2,2C,General Contractors,Gold
+827,1064137,0,77447,2200,18,New Orleans,5,8C,General Contractors,Bronze
+828,1064137,0,77447,2200,18,Texas - West Texas,9,8C,General Contractors,Bronze
+829,1064328,0,9227,2997,8,Chicago,18,4C,Painting Contractors,Silver
+830,1064357,0,1563,2592,14,OH North,7,8C,"Solid Surfaces, Countertops & Laminates",Bronze
+831,1064357,0,1563,2830,14,OH North,4,8C,Marble & Granite,Bronze
+832,1064357,0,1563,4130,14,OH North,4,8C,Stone--Natural,Bronze
+833,1064460,0,22117,1890,5,PA/DE Edition,5,4C,Fireproofing Contractors,Silver
+834,1064460,0,22117,1890,5,C/S New Jersey,8,8C,Fireproofing Contractors,Bronze
+835,1064460,0,22117,1890,5,Pittsburgh,1,8C,Fireproofing Contractors,Bronze
+836,1064537,0,8611,2610,5,PA/DE Edition,6,4C,Landscape Construction,Silver
+837,1064588,0,6662,4500,30,Wisconsin,12,8C,Underground Utilities--Contractors,Bronze
+838,1064588,0,6662,3790,30,Wisconsin,4,4C,Sewer Contractors,Silver
+839,1064638,0,15410,1500,20,Virginia,8,8C,Hollow Metal Doors & Frames,Bronze
+840,1064730,0,32496,3560,43,So. Florida,2,8C,Steel Roof Trusses,Bronze
+841,1064730,0,32496,3560,43,Georgia,2,8C,Steel Roof Trusses,Bronze
+842,1064730,0,32496,3560,43,No. Florida,3,8C,Steel Roof Trusses,Bronze
+843,1064730,0,32496,3560,43,Virginia,3,8C,Steel Roof Trusses,Bronze
+844,1064730,0,32496,3560,43,The Carolinas,2,8C,Steel Roof Trusses,Bronze
+845,1064730,0,32496,3560,43,Coastal Carolina,2,8C,Steel Roof Trusses,Bronze
+846,1064730,0,32496,3560,43,Tennessee,3,8C,Steel Roof Trusses,Bronze
+847,1064730,0,32496,3560,43,Alabama,2,8C,Steel Roof Trusses,Bronze
+848,1064730,0,32496,3560,43,Mississippi,2,8C,Steel Roof Trusses,Bronze
+849,1064730,0,32496,3560,43,West Virginia,2,8C,Steel Roof Trusses,Bronze
+850,1065762,0,24318,60,3,Los Angeles,3,1C,Air Conditioning Contractors,Platinum
+851,1065762,0,24318,60,3,Or/Riv/S.Ber,31,8C,Air Conditioning Contractors,Bronze
+852,1065887,0,26328,1680,14,OH North,2,1C,Electrical Contractors,Platinum
+853,1065887,0,26328,2210,14,OH North,4,8C,Generator Sets,Bronze
+854,1066065,0,37650,492,11,Georgia,7,8C,"Cabling Contrs.--Fiber Optic, Network, Telephone",Bronze
+855,1066065,0,37650,492,11,Virginia,11,8C,"Cabling Contrs.--Fiber Optic, Network, Telephone",Bronze
+856,1066065,0,37650,492,11,Metro D.C.,13,8C,"Cabling Contrs.--Fiber Optic, Network, Telephone",Bronze
+857,1066065,0,37650,220,11,Georgia,3,4C,Audio-Visual Equipment & Supplies,Silver
+858,1066065,0,37650,220,11,Virginia,2,8C,Audio-Visual Equipment & Supplies,Bronze
+859,1066065,0,37650,220,11,Metro D.C.,4,8C,Audio-Visual Equipment & Supplies,Bronze
+860,106626,0,10963,3110,18,San Ant/Aust,8,8C,Paving Contractors,Bronze
+861,106665,0,26971,3890,1,Nass & Sufflk,4,2C,Signs,Gold
+862,106665,0,26971,3890,1,New York City,4,2C,Signs,Gold
+863,106665,0,26971,3890,1,Wstch/Upst NY,4,2C,Signs,Gold
+864,1066807,0,5643,1680,31,Indiana,18,4C,Electrical Contractors,Silver
+865,1066832,0,34307,3370,21,Arizona,0,B,Plumbing Contractors,Super Alpha
+866,1066832,0,34307,2844,21,Arizona,4,4C,Mechanical Contractors,Silver
+867,106685,0,23233,260,4,So. Florida,3,8C,Bathroom Accessories,Bronze
+868,106685,0,23233,3070,4,So. Florida,1,4C,Toilet Partitions & Cubicles,Silver
+869,106720,0,19758,1760,5,PA/DE Edition,33,4C,Excavating Contractors,Silver
+870,106777,0,2981,1680,33,Central Valley CA,59,8C,Electrical Contractors,Bronze
+871,106820,0,28701,4850,23,N. New Jersey,15,4C,Demolition Contractors,Silver
+872,106820,0,28701,4850,23,C/S New Jersey,16,4C,Demolition Contractors,Silver
+873,1068908,0,19389,60,12,Dallas/Ft. Worth,6,2C,Air Conditioning Contractors,Gold
+874,1069112,0,2183,3110,6,Boston & E.Ma,0,B,Paving Contractors,Super Alpha
+875,1069112,0,2183,3100,6,Boston & E.Ma,9,8C,"Pavement Treatments, Coatings & Sealants",Bronze
+876,106915,0,3213,3780,5,Balt. & Vic,0,C,Sewage Treatment Plants,Clear Listing
+877,106915,0,3213,3780,5,PA/DE Edition,2,4C,Sewage Treatment Plants,Silver
+878,1069246,0,12743,715,10,N. New Jersey,7,4C,Concrete Repair & Restoration Contractors,Silver
+879,1069246,0,12743,715,10,C/S New Jersey,6,4C,Concrete Repair & Restoration Contractors,Silver
+880,1069246,0,12743,4660,10,N. New Jersey,11,4C,Waterproofing Contractors,Silver
+881,1069246,0,12743,4660,10,C/S New Jersey,5,4C,Waterproofing Contractors,Silver
+882,1069260,0,3182,3150,4,So. Florida,2,2C,Pile Driving & Drilling Contractors,Gold
+883,106954,0,32192,390,6,Boston & E.Ma,9,2C,Mason Contractors,Gold
+884,106954,0,32192,715,6,Boston & E.Ma,10,8C,Concrete Repair & Restoration Contractors,Bronze
+885,106954,0,32192,3513,6,Boston & E.Ma,14,8C,Restoration & Preservation--Historical/Landmark,Bronze
+886,106978,0,6178,2592,6,Boston & E.Ma,2,8C,"Solid Surfaces, Countertops & Laminates",Bronze
+887,106978,0,6178,2830,6,Boston & E.Ma,2,4C,Marble & Granite,Silver
+888,10699,0,7040,2200,30,Wisconsin,33,8C,General Contractors,Bronze
+889,1070418,0,16335,3150,4,So. Florida,1,2C,Pile Driving & Drilling Contractors,Gold
+890,1070418,0,16335,4510,4,So. Florida,1,8C,Underpinning Contractors,Bronze
+891,1070425,0,4616,4170,20,Virginia,8,8C,Storefronts,Bronze
+892,107045,0,20775,3104,1,Capital Dist,2,2C,Pavers--Interlocking & Unit,Gold
+893,107045,0,20775,3104,1,Nass & Sufflk,2,2C,Pavers--Interlocking & Unit,Gold
+894,107045,0,20775,3104,1,New York City,2,2C,Pavers--Interlocking & Unit,Gold
+895,107045,0,20775,3104,1,Wstch/Upst NY,2,2C,Pavers--Interlocking & Unit,Gold
+896,1070455,0,14366,2230,19,Michigan,4,4C,Glass & Glazing Contractors,Silver
+897,1070477,0,19438,1680,18,San Ant/Aust,17,4C,Electrical Contractors,Silver
+898,1070477,0,19438,2887,18,San Ant/Aust,2,8C,M.W.B.E.--Electrical Contractors,Bronze
+899,1070631,0,907,370,1,New York City,1,8C,Brick--Face & Common,Bronze
+900,1070700,0,4909,1760,15,OH South,26,8C,Excavating Contractors,Bronze
+901,1070700,0,4909,7931,15,OH South,13,8C,Site Development,Bronze
+902,1070717,0,2089,2230,26,Pittsburgh,5,8C,Glass & Glazing Contractors,Bronze
+903,1070717,0,2089,4170,26,Pittsburgh,5,8C,Storefronts,Bronze
+904,1070926,0,15789,3104,4,So. Florida,2,4C,Pavers--Interlocking & Unit,Silver
+905,1070967,0,13857,2230,18,San Ant/Aust,9,4C,Glass & Glazing Contractors,Silver
+906,1070967,0,13857,3870,18,San Ant/Aust,8,8C,Shower Doors & Bathtub Enclosures,Bronze
+907,1070989,0,1726,3860,3,Los Angeles,11,8C,Shoring Contractors,Bronze
+908,1071046,0,14846,510,27,Colorado,1,2C,Carpentry Contractors,Gold
+909,1071048,0,9398,710,9,San Francisco,8,4C,Concrete Contrs.--Reinforced Concrete Structures,Silver
+910,1071048,0,9398,2130,9,San Francisco,18,8C,Foundation Contractors--Concrete & Block,Bronze
+911,1071091,0,20775,4200,13,Houston,12,8C,Structural Steel Fabricators & Contractors,Bronze
+912,1071150,0,45450,2997,1,Nass & Sufflk,5,4C,Painting Contractors,Silver
+913,1071285,0,20542,720,27,Colorado,6,2C,"Concrete Contrs.--Sidewalks, Floors, Flatwork",Gold
+914,1071285,0,20542,710,27,Colorado,1,2C,Concrete Contrs.--Reinforced Concrete Structures,Gold
+915,1071300,0,15767,4500,10,N. New Jersey,11,8C,Underground Utilities--Contractors,Bronze
+916,1071300,0,15767,4500,10,C/S New Jersey,0,B,Underground Utilities--Contractors,Super Alpha
+917,1071300,0,15767,360,10,PA/DE Edition,0,C,"Boring--Horizontal, Contractors",Clear Listing
+918,1071300,0,15767,360,10,N. New Jersey,3,8C,"Boring--Horizontal, Contractors",Bronze
+919,1071300,0,15767,360,10,C/S New Jersey,5,8C,"Boring--Horizontal, Contractors",Bronze
+920,1071409,0,26139,3110,2,Metro D.C.,10,4C,Paving Contractors,Silver
+921,1071430,0,64127,1760,20,Virginia,1,1C,Excavating Contractors,Platinum
+922,1071742,0,4329,2979,16,No. Florida,2,4C,M.W.B.E.--Demolition Contractors,Silver
+923,1072013,0,15446,1680,9,San Francisco,94,8C,Electrical Contractors,Bronze
+924,1072013,0,15446,492,9,San Francisco,21,8C,"Cabling Contrs.--Fiber Optic, Network, Telephone",Bronze
+925,1072640,0,5534,4250,2,Virginia,2,8C,Swimming Pool Construction,Bronze
+926,1072640,0,5534,4250,2,Metro D.C.,1,8C,Swimming Pool Construction,Bronze
+927,1072769,0,17892,1680,18,San Ant/Aust,18,4C,Electrical Contractors,Silver
+928,1072796,0,18351,1760,27,Colorado,30,8C,Excavating Contractors,Bronze
+929,1072821,0,18084,3370,35,Seattle,18,8C,Plumbing Contractors,Bronze
+930,1072821,0,18084,3370,35,Portland,1,4C,Plumbing Contractors,Silver
+931,1072821,0,18084,2844,22,Seattle,22,8C,Mechanical Contractors,Bronze
+932,1072821,0,18084,2844,22,Portland,8,8C,Mechanical Contractors,Bronze
+933,107301,0,1759,9703,10,N. New Jersey,2,4C,Window Treatments & Coverings,Silver
+934,107301,0,1759,1620,10,N. New Jersey,1,4C,"Drapery Sales, Services & Accessories",Silver
+935,1073021,0,13206,1830,8,Chicago,6,2C,Fences,Gold
+936,1073021,0,13206,1830,8,Wisconsin,0,C,Fences,Clear Listing
+937,1073123,0,5353,1520,5,PA/DE Edition,15,8C,Overhead Doors,Bronze
+938,1073140,0,14517,1520,4,So. Florida,5,4C,Overhead Doors,Silver
+939,1073140,0,14517,1430,4,So. Florida,1,2C,Automatic Doors,Gold
+940,1073230,0,1095,1520,17,Ct. & W. Mass,8,8C,Overhead Doors,Bronze
+941,1073230,0,1095,1430,17,Ct. & W. Mass,2,8C,Automatic Doors,Bronze
+942,1073313,0,2665,1520,14,OH North,5,8C,Overhead Doors,Bronze
+943,1073313,0,2665,1520,14,Pittsburgh,0,B,Overhead Doors,Super Alpha
+944,1073313,0,2665,1540,14,OH North,3,8C,"Rolling Steel Doors, Grilles & Shutters",Bronze
+945,1073313,0,2665,1540,14,Pittsburgh,2,8C,"Rolling Steel Doors, Grilles & Shutters",Bronze
+946,107363,0,28287,3580,23,N. New Jersey,18,4C,Roofing Contractors,Silver
+947,107363,0,28287,3580,23,C/S New Jersey,23,4C,Roofing Contractors,Silver
+948,107368,0,50699,4210,1,Nass & Sufflk,4,8C,Stucco Contractors,Bronze
+949,107368,0,50699,4210,1,New York City,4,8C,Stucco Contractors,Bronze
+950,107368,0,50699,4210,1,Wstch/Upst NY,4,8C,Stucco Contractors,Bronze
+951,1073899,0,4781,2532,20,Virginia,1,4C,Irrigation Systems & Equip.--Sales & Installation,Silver
+952,1073899,0,4781,4000,20,Virginia,1,4C,Sprinkler Systems--Lawn,Silver
+953,1074145,0,9848,3110,6,Boston & E.Ma,9,4C,Paving Contractors,Silver
+954,1074145,0,9848,210,6,Boston & E.Ma,8,8C,"Asphalt Profiling, Recycling & Milling",Bronze
+955,1074186,0,44973,1640,10,N. New Jersey,12,4C,Drywall Contractors,Silver
+956,1074186,0,44973,1640,10,C/S New Jersey,19,8C,Drywall Contractors,Bronze
+957,1074186,0,44973,20,10,N. New Jersey,4,4C,Acoustical Contractors,Silver
+958,1074186,0,44973,20,10,C/S New Jersey,12,8C,Acoustical Contractors,Bronze
+959,1074186,0,44973,2145,23,N. New Jersey,8,8C,Framing Systems--Light Gauge,Bronze
+960,1074186,0,44973,2145,23,C/S New Jersey,9,8C,Framing Systems--Light Gauge,Bronze
+961,1074445,0,3369,1730,29,The Carolinas,6,8C,Employment Agencies,Bronze
+962,1074600,0,6313,2060,9,San Francisco,5,8C,Food Service Equipment,Bronze
+963,1074635,0,70435,3520,2,Metro D.C.,2,4C,Road Construction--Heavy & Highway,Silver
+964,1075408,0,21653,4500,9,San Francisco,3,2C,Underground Utilities--Contractors,Gold
+965,1075408,0,21653,3310,9,San Francisco,2,8C,Pipeline Contractors,Bronze
+966,1075432,0,5859,2610,18,San Ant/Aust,9,4C,Landscape Construction,Silver
+967,1075575,0,1791,3110,2,Virginia,0,B,Paving Contractors,Super Alpha
+968,1075575,0,1791,3110,2,Metro D.C.,23,8C,Paving Contractors,Bronze
+969,107582,0,10618,2770,4,So. Florida,3,8C,Lumber & Timber,Bronze
+970,107582,0,10618,440,4,So. Florida,3,8C,Building Materials,Bronze
+971,107591,0,27159,4360,1,New York City,11,8C,Terrazzo Contractors,Bronze
+972,1076026,0,20520,4200,18,San Ant/Aust,6,4C,Structural Steel Fabricators & Contractors,Silver
+973,1076026,0,20520,4080,18,San Ant/Aust,3,8C,Steel & Precast Concrete Erectors,Bronze
+974,1076044,0,2054,1640,27,Colorado,30,8C,Drywall Contractors,Bronze
+975,1076044,0,2054,2997,27,Colorado,28,8C,Painting Contractors,Bronze
+976,1076060,0,2561,3890,7,Or/Riv/S.Ber,16,8C,Signs,Bronze
+977,1076060,0,2561,3890,7,San Diego,0,B,Signs,Super Alpha
+978,107613,0,26552,710,2,Balt. & Vic,5,8C,Concrete Contrs.--Reinforced Concrete Structures,Bronze
+979,107613,0,26552,710,2,Metro D.C.,12,8C,Concrete Contrs.--Reinforced Concrete Structures,Bronze
+980,107621,0,36472,715,2,Balt. & Vic,7,8C,Concrete Repair & Restoration Contractors,Bronze
+981,1076411,0,10855,1680,7,Or/Riv/S.Ber,62,8C,Electrical Contractors,Bronze
+982,1076411,0,10855,2690,7,Or/Riv/S.Ber,0,B,Lighting Fixtures & Equipment,Super Alpha
+983,1076503,0,8605,1760,29,The Carolinas,9,8C,Excavating Contractors,Bronze
+984,1076503,0,8605,1760,29,Coastal Carolina,0,B,Excavating Contractors,Super Alpha
+985,1076503,0,8605,4500,29,The Carolinas,9,8C,Underground Utilities--Contractors,Bronze
+986,1076503,0,8605,4500,29,Coastal Carolina,0,B,Underground Utilities--Contractors,Super Alpha
+987,1076599,0,4414,1680,19,Michigan,18,4C,Electrical Contractors,Silver
+988,1076978,0,373003,1680,10,N. New Jersey,11,2C,Electrical Contractors,Gold
+989,1076978,0,373003,1680,10,Wstch/Upst NY,5,2C,Electrical Contractors,Gold
+990,1077004,0,2579,2997,3,Los Angeles,55,8C,Painting Contractors,Bronze
+991,1077004,0,2579,3330,3,Los Angeles,0,B,Plastering & Lathing Contractors,Super Alpha
+992,1077050,0,47101,2200,1,Nass & Sufflk,46,8C,General Contractors,Bronze
+993,1077050,0,47101,2200,1,New York City,89,8C,General Contractors,Bronze
+994,1077050,0,47101,2520,1,Nass & Sufflk,23,8C,"Interiors--Offices, Stores, Etc.",Bronze
+995,1077050,0,47101,2520,1,New York City,37,8C,"Interiors--Offices, Stores, Etc.",Bronze
+996,1077215,0,8850,710,4,So. Florida,21,8C,Concrete Contrs.--Reinforced Concrete Structures,Bronze
+997,1077362,0,12516,4850,27,Colorado,8,4C,Demolition Contractors,Silver
+998,1077362,0,12516,700,27,Colorado,9,8C,"Concrete Breaking, Sawing & Core Drilling",Bronze
+999,1077521,0,466,4704,26,PA/DE Edition,1,8C,Office Relocation & Logistics,Bronze
+1000,1077521,0,466,4704,26,Pittsburgh,1,8C,Office Relocation & Logistics,Bronze
